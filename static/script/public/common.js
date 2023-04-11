@@ -1,4 +1,3 @@
-/*
 define("public/common", ["jquery"], function(o, n, t) {
     o("jquery"),
     function() {
@@ -20,4 +19,3 @@ define("public/common", ["jquery"], function(o, n, t) {
         })
     }()
 });
-*/
