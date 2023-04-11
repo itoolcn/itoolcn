@@ -42,7 +42,7 @@ var DOMUtil = {
 			'banner_960':'',
 			'banner_480':''
 		},
-		'ipjisuanqi.com':{
+		'itool.com':{
 			'banner_link':'',
 			'banner_960':'',
 			'banner_480':''

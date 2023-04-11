@@ -1168,7 +1168,7 @@ define("index/index", ["jquery", "./mod/tool.js"], function(require, exports, mo
     }
     ,
     window.calculate = formatTable,
-    //location.hostname.indexOf("ipjisuanqi.com") < 0 ? location.href = "https://ipjisuanqi.com/" : window.top != window.self && (window.top.location = self.location.href),
+    //location.hostname.indexOf("itool.com") < 0 ? location.href = "https://itool.com/" : window.top != window.self && (window.top.location = self.location.href),
     ﾟωﾟﾉ = /｀ｍ´）ﾉ ~┻━┻   /._,
     o = ﾟｰﾟ = _ = 3,
     c = ﾟΘﾟ = ﾟｰﾟ - ﾟｰﾟ,
