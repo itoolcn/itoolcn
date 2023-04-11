@@ -1,0 +1,813 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="robots" content="all">
+		<meta name="referrer" content="always">
+		<meta name="renderer" content="webkit">
+		<meta http-equiv="Cache-Control" content="no-transform">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="applicable-device" content="pc,mobile">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">		
+		<meta name="keywords" content="ip计算器,ip地址计算器,子网掩码计算器,ip计算器在线计算,掩码计算器">
+        <meta name="description" content="提供专业ipv4、ipv6计算器在线计算">
+		<title>ip计算器 ip地址计算器 子网掩码计算器 ip地址转换 ip子网划分计算器</title>		
+		<link rel="canonical" href="">
+		<link rel="stylesheet" type="text/css" media="screen" href="static/css/common.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="static/css/index.css">
+		<script type="text/javascript">
+			var CONFIG = {
+				'wwwUrl': '//ipjisuanqi.com/',
+				'imageUrl': 'static/image/',
+				'scriptUrl': 'static/script/dist/',
+				'styleUrl': 'static/style/dist/'
+			};
+		</script>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="header">
+				<div class="inner">
+					<div class="mod-head">
+						<div class="hd">
+							<a class="logo" href=""><img src="static/picture/logo.png" alt="ip计算器" width="320" height="200"></a>
+							<span class="site">ipjisuanqi.com</span>
+							<a class="link" href="ipv6.html" target="_blank">ipv6地址计算器</a>
+						</div>
+						<div class="bd">
+						  	<div class="search">
+							    <div class="panels">
+							      	<div class="panel">
+								        <div class="input-box">
+											<input class="input-text" type="text" name="ip" value="" placeholder="请输入您要计算的iP地址">
+											<button class="btn-search">计算</button>
+								        </div>
+								    </div>
+							    </div>
+							</div>
+						</div>
+					</div>
+					<div class="MODBanner"></div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="inner">
+					<div class="mod-panel">
+						<div class="hd">
+							<div class="table-list"></div>
+						</div>
+						<div class="bd">
+							<div class="table-inner">
+							</div>
+							<div class="table-fixed">
+							</div>
+						</div>
+					</div>
+					<div class="mod-tool">
+						<div class="panel">
+							<div class="row">
+								<div class="item">
+									<form>
+										<div class="box box340">
+											<table>
+												<tbody>
+													<tr>
+														<td colspan="3"><h3>网络和IP地址计算器</h3></td>
+													</tr>
+													<tr>
+														<td colspan="3">显示网络，广播，第一次和最后一个给定的网络地址:</td>
+													</tr>
+													<tr>
+														<td width="80" align="right">IP/掩码位:</td>
+														<td width="270" align="right">
+															<input type="text" size="3" maxlength="3" value="192" name="ip_1">
+															<input type="text" size="3" maxlength="3" value="168" name="ip_2">
+															<input type="text" size="3" maxlength="3" value="0" name="ip_3">
+															<input type="text" size="3" maxlength="3" value="1" name="ip_4">
+															/
+															<input type="text" size="2" value="24" name="bits">
+														</td>
+														<td>
+															<input onclick="calNBFL(this.form)" type="button" value=" 计算 ">
+															<input onclick="resetform4(this.form)" type="button" value=" 清除重算 ">
+															<input id="copy" type="button" value=" 复制 ">
+														</td>
+													</tr>
+													<tr>
+														<td colspan="2">
+															<b>处理结果</b>
+														</td>
+														<td rowspan="6"></td>
+													</tr>
+													<tr>
+														<td align="right">可用地址:</td>
+														<td align="right">
+															<input type="text" readonly="" size="10" name="numofaddr">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">掩码:</td>
+														<td align="right">
+															<input type="text" readonly="" maxlength="3" size="3" name="snm_1">
+															<input type="text" readonly="" maxlength="3" size="3" name="snm_2">
+															<input type="text" readonly="" maxlength="3" size="3" name="snm_3">
+															<input type="text" readonly="" maxlength="3" size="3" name="snm_4">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">网络:</td>
+														<td align="right">
+															<input type="text" readonly="" maxlength="3" size="3" name="nwadr_1">
+															<input type="text" readonly="" maxlength="3" size="3" name="nwadr_2">
+															<input type="text" readonly="" maxlength="3" size="3" name="nwadr_3">
+															<input type="text" readonly="" maxlength="3" size="3" name="nwadr_4">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">第一个可用:</td>
+														<td align="right">
+															<input type="text" readonly="" maxlength="3" size="3" name="firstadr_1">
+															<input type="text" readonly="" maxlength="3" size="3" name="firstadr_2">
+															<input type="text" readonly="" maxlength="3" size="3" name="firstadr_3">
+															<input type="text" readonly="" maxlength="3" size="3" name="firstadr_4">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">最后可用:</td>
+														<td align="right">
+															<input type="text" readonly="" maxlength="3" size="3" name="lastadr_1">
+															<input type="text" readonly="" maxlength="3" size="3" name="lastadr_2">
+															<input type="text" readonly="" maxlength="3" size="3" name="lastadr_3">
+															<input type="text" readonly="" maxlength="3" size="3" name="lastadr_4">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">广播:</td>
+														<td align="right">
+															<input type="text" readonly="" maxlength="3" size="3" name="bcast_1">
+															<input type="text" readonly="" maxlength="3" size="3" name="bcast_2">
+															<input type="text" readonly="" maxlength="3" size="3" name="bcast_3">
+															<input type="text" readonly="" maxlength="3" size="3" name="bcast_4">
+														</td>
+													</tr>
+													<tr>
+														<td colspan="3">
+															在网络掩码“位格式”也被称为CIDR格式（CIDR=无类别域间路由选择）。
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</div>
+									</form>
+								</div>
+								<div class="item">
+									<form>
+										<div class="box box340">
+											<table>
+												<tbody>
+													<tr>
+														<td colspan="3">
+															<h3>通过掩码位元数计算子网掩码</h3>
+														</td>
+													</tr>
+													<tr>
+														<td>掩码位元数:</td>
+														<td>
+															/
+															<input type="text" size="2" value="27" name="bits">
+														</td>
+														<td>
+															<input onclick="calcAmount(this.form)" type="button" value=" 计算 ">
+															<input onclick="resetform7(this.form)" type="button" value=" 清除重算 ">
+														</td>
+													</tr>
+													<tr>
+														<td colspan="2">
+															<b>处理结果</b>
+														</td>
+														<td rowspan="4"></td>
+													</tr>
+													<tr>
+														<td>可用地址的数量:</td>
+														<td>
+															<input type="text" readonly="" size="10" name="numofaddr">
+														</td>
+													</tr>
+													<tr>
+														<td>地址总数:</td>
+														<td><input type="text" readonly="" size="10" name="maxaddr"></td>
+													</tr>
+													<tr>
+														<td>子网掩码:</td>
+														<td>
+															<input type="text" readonly="" size="3" name="snm_1">
+															<input type="text" readonly="" size="3" name="snm_2">
+															<input type="text" readonly="" size="3" name="snm_3">
+															<input type="text" readonly="" size="3" name="snm_4">
+														</td>
+													</tr>
+													<tr>
+														<td colspan="3">
+															IP组播地址范围
+														</td>
+													</tr>
+													<tr>
+														<td colspan="3">
+														所有的多播地址可以很容易被认出，因为同位模式“1110”开始。
+														</td>
+													</tr>
+													<tr>
+														<td colspan="3">
+														224.0.0.0 - 224.0.0.255知名多播地址，控制通道
+														</td>
+													</tr>
+													<tr>
+														<td colspan="3">
+														224.0.1.0 - 238.255.255.255全球范围的（互联网宽）组播地址
+														</td>
+													</tr>
+													<tr>
+														<td colspan="3">
+														239.0.0.0 - 239.255.255.255本地多播地址
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+						<div class="panel">
+							<div class="row">
+								<div class="item">
+									<form>
+										<div class="box box200">
+											<table>
+												<tbody>
+													<tr>
+														<td colspan="3"><h3>通过掩码位元数转换子网掩码</h3></td>
+													</tr>
+													<tr>
+														<td width="160" align="right">掩码位元数:</td>
+														<td width="260" align="right">
+															/
+															<input type="text" size="2" value="24" name="bits">
+														</td>
+														<td>
+															<input onclick="calcNWmaskForm2(this.form)" type="button" value=" 计算 ">
+															<input onclick="resetform2(this.form)" type="button" value=" 清除重算 ">
+														</td>
+													</tr>
+													<tr>
+														<td colspan="2">
+															<b>处理结果</b>
+														</td>
+														<td rowspan="2"></td>
+													</tr>
+													<tr>
+														<td align="right">十进制子网掩码:</td>
+														<td align="right">
+															<input type="text" readonly="" size="3" name="snm_1">
+															<input type="text" readonly="" size="3" name="snm_2">
+															<input type="text" readonly="" size="3" name="snm_3">
+															<input type="text" readonly="" size="3" name="snm_4">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">十六进制子网掩码:</td>
+														<td align="right">
+															<input type="text" readonly="" size="2" name="hex_1">
+															<input type="text" readonly="" size="2" name="hex_2">
+															<input type="text" readonly="" size="2" name="hex_3">
+															<input type="text" readonly="" size="2" name="hex_4">
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</div>
+									</form>
+								</div>
+								<div class="item">
+									<form>
+										<div class="box box200">
+											<table>
+												<tbody>
+													<tr>
+														<td colspan="3">
+															<h3>通过主机数量计算子网掩码</h3>
+														</td>
+													</tr>
+													<tr>
+														<td width="150" align="right">需要地址的数量:</td>
+														<td width="250" align="right">
+															<input type="text" size="10" value="5" name="numofaddr">
+														</td>
+														<td>
+															<input onclick="calcNeeded(this.form)" type="button" value=" 计算 ">
+															<input onclick="resetform6(this.form)" type="button" value=" 清除重算 ">
+														</td>
+													</tr>
+													<tr>
+														<td colspan="2">
+															<b>处理结果</b>
+														</td>
+														<td rowspan="3"></td>
+													</tr>
+													<tr>
+														<td align="right">掩码位元数:</td>
+														<td align="right">
+															/
+															<input type="text" readonly="" size="2" name="bits">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">子网掩码:</td>
+														<td align="right">
+															<input type="text" readonly="" size="3" name="snm_1">
+															<input type="text" readonly="" size="3" name="snm_2">
+															<input type="text" readonly="" size="3" name="snm_3">
+															<input type="text" readonly="" size="3" name="snm_4">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">可用地址的数量:</td>
+														<td align="right">
+															<input type="text" readonly="" size="10" name="maxaddr">
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+						<div class="panel">
+							<form>
+								<div class="row">
+									<div class="item">
+										<div class="box box365">
+											<table>
+												<tbody>
+													<tr>
+														<td colspan="3">
+															<h3>IP地址子网掩码计算器</h3>
+														</td>
+													</tr>
+													<tr>
+														<td width="170" align="right">TCP/IP 地址:</td>
+														<td width="310" align="right">
+															<input type="text" name="oct1" size="3" maxlength="3" value="192">
+															<input type="text" name="oct2" size="3" maxlength="3" value="168">
+															<input type="text" name="oct3" size="3" maxlength="3" value="0">
+															<input type="text" name="oct4" size="3" maxlength="3" value="1">
+														</td>
+														<td>
+															<input type="button" value=" 清除 " onclick="ClearAll(this.form);">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">选择网络类型:</td>
+														<td align="right">
+															<label for="cf-1">
+																<input id="cf-1" type="radio" value="1" name="cf" checked="">
+																<span>默认</span>
+															</label>
+															<label for="cf-2">
+																<input id="cf-2" type="radio" value="2" name="cf">
+																<span>A类网</span>
+															</label>
+															<label for="cf-3">
+																<input id="cf-3" type="radio" value="3" name="cf">
+																<span>B类网</span>
+															</label>
+															<label for="cf-4">
+																<input id="cf-4" type="radio" value="4" name="cf">
+																<span>C类网</span>
+															</label>
+														</td>
+														<td></td>
+													</tr>
+													<tr>
+														<td align="right">请选择子网的IP数量:</td>
+														<td align="right">
+															<select name="network" size="1" onchange="EmptyHosts();">
+																<option value="0"></option>
+																<option value="1">1</option>
+																<option value="2">2</option>
+																<option value="4">4</option>
+																<option value="8">8</option>
+																<option value="16">16</option>
+																<option value="32">32</option>
+																<option value="64">64</option>
+																<option value="128">128</option>
+																<option value="256">256</option>
+																<option value="512">512</option>
+																<option value="1024">1024</option>
+																<option value="2048">2048</option>
+																<option value="4096">4096</option>
+																<option value="8192">8192</option>
+																<option value="16384">16384</option>
+																<option value="32768">32768</option>
+																<option value="65536">65536</option>
+																<option value="131072">131072</option>
+																<option value="262144">262144</option>
+																<option value="524288">524288</option>
+																<option value="1048576">1048576</option>
+																<option value="2097152">2097152</option>
+																<option value="4194304">4194304</option>
+																<option value="8388608">8388608</option>
+															</select>
+														</td>
+														<td></td>
+													</tr>
+													<tr>
+														<td align="right">或 选择每个网络所需的<br>节点/主机数(含广播地址):</td>
+														<td align="right">
+															<select name="node" size="1" onchange="EmptyNetwork()">
+																<option value="0"></option>
+																<option value="1">1</option>
+																<option value="2">2</option>
+																<option value="4">4</option>
+																<option value="8">8</option>
+																<option value="16">16</option>
+																<option value="32">32</option>
+																<option value="64">64</option>
+																<option value="128">128</option>
+																<option value="256">256</option>
+																<option value="512">512</option>
+																<option value="1024">1024</option>
+																<option value="2048">2048</option>
+																<option value="4096">4096</option>
+																<option value="8192">8192</option>
+																<option value="16384">16384</option>
+																<option value="32768">32768</option>
+																<option value="65536">65536</option>
+																<option value="131072">131072</option>
+																<option value="262144">262144</option>
+																<option value="524288">524288</option>
+																<option value="1048576">1048576</option>
+																<option value="2097152">2097152</option>
+																<option value="4194304">4194304</option>
+																<option value="8388608">8388608</option>
+																<option value="16777216">16777216</option>
+																<option value="33554432">33554432</option>
+																<option value="67108864">67108864</option>
+																<option value="134217728">134217728</option>
+																<option value="268435456">268435456</option>
+																<option value="536870912">536870912</option>
+																<option value="1073741824">1073741824</option>
+																<option value="2147483648">2147483648</option>
+															</select>
+														</td>
+														<td>
+															<input type="button" value=" 计算 " onclick="compute2(this.form);">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">网络类型:</td>
+														<td align="right">
+															<input type="text" name="nwclass" size="7" maxlength="7">
+															<input type="text" name="subsuper" size="14" maxlength="14">
+															<input type="text" name="nwclass1" size="7" maxlength="7">
+														</td>
+														<td></td>
+													</tr>
+													<tr>
+														<td align="right">子网掩码:</td>
+														<td align="right">
+															<input type="text" name="snm1" size="3" maxlength="3">
+															<input type="text" name="snm2" size="3" maxlength="3">
+															<input type="text" name="snm3" size="3" maxlength="3">
+															<input type="text" name="snm4" size="3" maxlength="3">
+															或
+															<input type="text" name="snmbits" size="3" maxlength="3">
+														</td>
+														<td></td>
+													</tr>
+													<tr>
+														<td align="right">子网:</td>
+														<td align="right">
+															<input type="text" name="nwquant" size="10" maxlength="8">
+														</td>
+														<td>
+															<input type="button" value=" 网络列表 " onclick="listsubnets(this.form);">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">每个网络的节点/主机数<br>(含网络和广播地址)***:</td>
+														<td align="right">
+															<input type="text" name="nodequant" size="10" maxlength="8">
+														</td>
+														<td></td>
+													</tr>
+												</tbody>
+											</table>
+										</div>
+									</div>
+									<div class="item">
+										<div class="box box225">
+											<table>
+												<tbody>
+													<tr>
+														<td colspan="3">
+															<h3>网络/节点计算器</h3>
+														</td>
+													</tr>
+													<tr>
+														<td width="135" align="right">子网掩码:</td>
+														<td width="250" align="right">
+															<input type="text" name="snm1a" size="3" maxlength="3" value="255">
+															<input type="text" name="snm2a" size="3" maxlength="3" value="255">
+															<input type="text" name="snm3a" size="3" maxlength="3" value="255">
+															<input type="text" name="snm4a" size="3" maxlength="3" value="0">
+														</td>
+														<td></td>
+													</tr>
+													<tr>
+														<td align="right">TCP/IP 地址:</td>
+														<td align="right">
+															<input type="text" name="oct1a" size="3" maxlength="3" value="192">
+															<input type="text" name="oct2a" size="3" maxlength="3" value="168">
+															<input type="text" name="oct3a" size="3" maxlength="3" value="0">
+															<input type="text" name="oct4a" size="3" maxlength="3" value="1">
+														</td>
+														<td>
+															<input type="button" value=" 计算 " onclick="compute(this.form)">
+														</td>
+													</tr>
+													<tr>
+														<td colspan="2">
+															<b>处理结果</b>
+														</td>
+														<td rowspan="3"></td>
+													</tr>
+													<tr>
+														<td align="right">网络:</td>
+														<td align="right">
+															<input type="text" name="nw1a" size="3" maxlength="3">
+															<input type="text" name="nw2a" size="3" maxlength="3">
+															<input type="text" name="nw3a" size="3" maxlength="3">
+															<input type="text" name="nw4a" size="3" maxlength="3">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">节点/主机:</td>
+														<td align="right">
+															<input type="text" name="node1a" size="3" maxlength="3">
+															<input type="text" name="node2a" size="3" maxlength="3">
+															<input type="text" name="node3a" size="3" maxlength="3">
+															<input type="text" name="node4a" size="3" maxlength="3">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">广播地址:</td>
+														<td align="right">
+															<input type="text" name="broad1a" size="3" maxlength="3">
+															<input type="text" name="broad2a" size="3" maxlength="3">
+															<input type="text" name="broad3a" size="3" maxlength="3">
+															<input type="text" name="broad4a" size="3" maxlength="3">
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</div>
+									</div>
+									<div class="item">
+										<div class="box box110">
+											<table>
+												<tbody>
+													<tr>
+														<td colspan="3">
+															<h3>子网掩码换算器</h3>
+														</td>
+													</tr>
+													<tr>
+														<td width="250" align="right">十进制子网掩码:</td>
+														<td width="360" align="right">
+															<input type="text" name="snm1c" size="3" maxlength="3">
+															<input type="text" name="snm2c" size="3" maxlength="3">
+															<input type="text" name="snm3c" size="3" maxlength="3">
+															<input type="text" name="snm4c" size="3" maxlength="3">
+														</td>
+														<td width="100" align="left">
+															<input type="button" value=" 计算 " onclick="computeSNMA(this.form);">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">掩码位元数:</td>
+														<td align="right">
+															/
+															<input type="text" name="snmbitsc" size="2" maxlength="2" value="24">
+														</td>
+														<td align="left">
+															<input type="button" value=" 计算 " onclick="computeSNMB(this.form);">
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</div>
+									</div>					
+								</div>
+								<div class="row">
+									<div class="item">
+										<div class="box box180">
+											<table>
+												<tbody>
+													<tr>
+														<td colspan="3">
+															<h3>IP 地址进制转换器</h3>
+														</td>
+													</tr>
+													<tr>
+														<td width="160" align="right">十进制 TCP/IP 地址:</td>
+														<td width="400" align="right">
+															<input type="text" name="oct1b" size="3" maxlength="3" value="192">
+															<input type="text" name="oct2b" size="3" maxlength="3" value="168">
+															<input type="text" name="oct3b" size="3" maxlength="3" value="0">
+															<input type="text" name="oct4b" size="3" maxlength="3" value="1">
+														</td>
+														<td>
+															<input type="button" value=" 计算 " onclick="compute3(this.form);">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">二进制 TCP/IP 地址:</td>
+														<td align="right">
+															<input type="text" name="bin1b" size="8" maxlength="8">
+															<input type="text" name="bin2b" size="8" maxlength="8">
+															<input type="text" name="bin3b" size="8" maxlength="8">
+															<input type="text" name="bin4b" size="8" maxlength="8">
+														</td>
+														<td>
+															<input type="button" value=" 计算 " onclick="compute4(this.form);">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">十六进制 TCP/IP 地址:</td>
+														<td align="right">
+															<input type="text" name="hex1b" size="2" maxlength="2">
+															<input type="text" name="hex2b" size="2" maxlength="2">
+															<input type="text" name="hex3b" size="2" maxlength="2">
+															<input type="text" name="hex4b" size="2" maxlength="2">
+														</td>
+														<td>
+															<input type="button" value=" 计算 " onclick="compute5(this.form);">
+														</td>
+													</tr>
+													<tr>
+														<td align="right">十进制 TCP/IP 地址:</td>
+														<td align="right">
+															<input type="text" name="dec1b" size="10" maxlength="10">
+														</td>
+														<td align="left">
+															<input type="button" value=" 计算 " onclick="compute6(this.form);">
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</div>
+									</div>
+									<div class="item">
+										<div class="box box180">
+											<table>
+												<tbody>
+													<tr>
+														<td colspan="3">
+															<h3>子网掩码逆算器</h3>
+														</td>
+													</tr>
+													<tr>
+														<td width="50" align="right">掩码:</td>
+														<td width="250" align="right">
+															<input type="text" name="snm1d" size="3" maxlength="3" value="255">
+															<input type="text" name="snm2d" size="3" maxlength="3" value="255">
+															<input type="text" name="snm3d" size="3" maxlength="3" value="255">
+															<input type="text" name="snm4d" size="3" maxlength="3" value="0">
+														</td>
+														<td>
+															<input type="button" value=" 计算 " onclick="computeINV1(this.form);">
+														</td>
+													</tr>
+													<tr>
+														<td colspan="2">
+															<b>处理结果</b>
+														</td>
+														<td rowspan="2"></td>
+													</tr>
+													<tr>
+														<td></td>
+														<td align="right">
+															<input type="text" name="snm1e" size="3" maxlength="3">
+															<input type="text" name="snm2e" size="3" maxlength="3">
+															<input type="text" name="snm3e" size="3" maxlength="3">
+															<input type="text" name="snm4e" size="3" maxlength="3">
+														</td>
+													</tr>
+												</tbody>
+											</table>
+										</div>
+									</div>
+								</div>
+							</form>
+						</div>
+						<div class="tips">
+							<p>本工具提供IP地址计算器、子网掩码计算器、网络主机数计算器，支持IP十进制、二进制、八进制、十六进制IP相互转换，作为网管人员必备的ip地址在线计算工具！</p>
+						</div>
+					</div>
+					<div class="mod-news">
+                    	<div class="hd">
+                    		<a class="title" href="javascript:;" target="_blank">路由器资讯</a>
+                    		<a class="more" href="javascript:;" target="_blank" rel="nofollow">查看更多 &gt;</a>
+                    	</div>
+                    	<div class="bd"></div>
+                    </div>
+				</div>
+			</div>
+			<div class="footer">
+				<div class="mod-foot">
+					<div class="inner">
+						<div class="bd">
+							<p class="link">
+								<a href="javascript:;" target="_blank">iP查询</a>
+								<a href="javascript:;" target="_blank">网站iP</a>
+								<a href="javascript:;" target="_blank">DNS大全</a>
+								<a href="javascript:;" target="_blank">icp备案查询</a>
+								<a href="javascript:;" target="_blank">防翻车</a>
+								<a href="javascript:;" target="_blank">旁站查询</a>
+								<a href="javascript:;" target="_blank">子域名查询</a>
+								<a href="javascript:;" target="_blank">友情链接检测</a>
+								<a href="javascript:;" target="_blank">保安堂</a>
+								<a href="javascript:;" target="_blank">房贷计算器</a>
+								<a href="javascript:;" target="_blank">iP属地</a>
+								<a href="javascript:;" target="_blank">路由器</a>
+								<a href="javascript:;" target="_blank">汇率查询</a>
+							</p>
+							<p>
+								<span>兴宁市漫游科技有限公司</span>
+								<span>Copyright &copy; 2022</span>
+								<a href="javascript:;" target="_blank" rel="nofollow">粤ICP备20009057号</a>
+								<a href="javascript:;" target="_blank" rel="nofollow">粤公网安备 44148102000137号</a>
+								<a href="">ip计算器</a>
+								<span>版权所有</span>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="static/js/sea.js"></script>
+		<script type="text/javascript">
+			seajs.config({
+				'base': './static/script',
+				'paths': {
+					'scriptUrl': './static/script'
+				},
+				'alias': {
+					'jquery': 'https://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js',
+					'common': 'scriptUrl/public/common'
+				},
+				'map': [[/^(.*?\/script\/.*?\/.*?\.js$)(?:.*)$/i, '$1?v=202204011800']],
+				'charset': 'utf-8'
+			});
+			seajs.use(['common'],function() {
+				seajs.use('scriptUrl/index/index.js');
+			});
+		</script>
+		<script id="MODBanner" src="static/js/index.js"></script>
+		<script>
+		(function(){
+		var bp = document.createElement('script');
+		var curProtocol = window.location.protocol.split(':')[0];
+		if (curProtocol === 'https') {
+		bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+		}
+		else {
+		bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+		}
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(bp, s);
+		})();
+		</script>
+		<script>
+        (function(){
+        var src = "https://jspassport.ssl.qhimg.com/11.0.1.js?d182b3f28525f2db83acfaaf6e696dba";
+        document.write('<script src="' + src + '" id="sozz"><\/script>');
+        })();
+        </script>
+        <script>
+		var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "https://hm.baidu.com/hm.js?5e9dcc0eb714b7307c89043a6b35195d";
+		  var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+		})();
+		</script>
+		<a href="https://smalltool.github.io/" style="display:none;">仿站</a>
+</body>
+</html>

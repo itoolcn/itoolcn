@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="robots" content="all">
+		<meta name="referrer" content="always">
+		<meta name="renderer" content="webkit">
+		<meta http-equiv="Cache-Control" content="no-transform">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="applicable-device" content="pc,mobile">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<title>ipv6计算器 ipv6地址计算器 ipv6子网掩码计算器 ipv6计算器在线计算</title>
+		<link rel="canonical" href="">
+		<link rel="stylesheet" type="text/css" media="screen" href="static/css/common.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="static/css/ipv6.css">
+		<script type="text/javascript">
+			var CONFIG = {
+				'wwwUrl': '//ipjisuanqi.com/',
+				'imageUrl': 'static/image/',
+				'scriptUrl': 'static/script/dist/',
+				'styleUrl': 'static/style/dist/'
+			};
+		</script>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="header">
+				<div class="inner">
+					<div class="mod-head">
+						<div class="hd">
+							<a class="logo" href="index.html"><img src="static/picture/logo.png" alt="ip计算器" width="320" height="200"></a>
+							<span class="site">ipjisuanqi.com</span>
+							<a class="link" href="index.html" target="_blank">iP地址计算器</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="container">
+				<div class="inner">
+					<div class="mod-panel">
+						<div class="hd"><h1>ipv6地址计算器</h1></div>
+						<div class="bd">
+							<div class="input-group input-group-1">
+								<div class="eg">
+									<span>例如：2001:4860:4860:0000:0000:0000:0000:8888</span>
+									<button class="J_copy" data-text="2001:4860:4860:0000:0000:0000:0000:8888">复制</button>
+								</div>
+								<div class="input-wrapper">
+									<input class="input-text" type="search" name="originIpValue" placeholder="IPv6地址">
+									<button class="btn getIpNumber">转数字 &gt;</button>
+									<input class="input-text" type="search" name="resultIpNumber" placeholder="IPv6数字">
+								</div>
+							</div>
+							<div class="input-group input-group-2">
+								<div class="eg">
+									<span>例如：42541956123769884636017138956568135816</span>
+									<button class="J_copy" data-text="42541956123769884636017138956568135816">复制</button>
+								</div>
+								<div class="input-wrapper">
+									<input class="input-text" type="search" name="originIpNumber" placeholder="IPv6数字">
+									<button class="btn getIpValue">转IPv6 &gt;</button>
+									<input class="input-text" type="search" name="resultIpValue" placeholder="IPv6地址">
+								</div>
+							</div>
+							<div class="input-group input-group-3">
+								<div class="eg">
+									<span>例如：2001:4860:4860:0000:0000:0000:0000:8888</span>
+									<button class="J_copy" data-text="2001:4860:4860:0000:0000:0000:0000:8888">复制</button>
+								</div>
+								<div class="input-wrapper">
+									<input class="input-text" type="search" name="originExplodedIp" placeholder="IPv6扩展地址">
+									<button class="btn getCompressedIP">压缩IPv6 &gt;</button>
+									<input class="input-text" type="search" name="resultCompressedIP" placeholder="IPv6压缩地址">
+								</div>
+							</div>
+							<div class="input-group input-group-4">
+								<div class="eg">
+									<span>例如：2001:4860:4860::8888</span>
+									<button class="J_copy" data-text="2001:4860:4860::8888">复制</button>
+								</div>
+								<div class="input-wrapper">
+									<input class="input-text" type="search" name="originCompressedIp" placeholder="IPv6压缩地址">
+									<button class="btn getExplodedIp">扩展IPv6 &gt;</button>
+									<input class="input-text" type="search" name="resultExplodedIp" placeholder="IPv6扩展地址">
+								</div>
+							</div>
+							<div class="input-group input-group-5">
+								<div class="input-wrapper">
+									<div class="input-set">
+										<p>IPv6地址范围计算</p>
+										<p>									
+											<input class="input-text input-text-small" type="text" name="ip" id="ip1" value="FFFF" maxlength="4" size="4" autofocus="" required="">
+											<span>:</span>
+											<input class="input-text input-text-small" type="text" name="ip" id="ip2" value="FFFF" maxlength="4" size="4">
+											<span>:</span>
+											<input class="input-text input-text-small" type="text" name="ip" id="ip3" value="FFFF" maxlength="4" size="4">
+											<span>:</span>
+											<input class="input-text input-text-small" type="text" name="ip" id="ip4" value="FFFF" maxlength="4" size="4">
+											<span>:</span>
+											<input class="input-text input-text-small" type="text" name="ip" id="ip5" value="FFFF" maxlength="4" size="4">
+											<span>:</span>
+											<input class="input-text input-text-small" type="text" name="ip" id="ip6" value="FFFF" maxlength="4" size="4">
+											<span>:</span>
+											<input class="input-text input-text-small" type="text" name="ip" id="ip7" value="FFFF" maxlength="4" size="4">
+											<span>:</span>
+											<input class="input-text input-text-small" type="text" name="ip" id="ip8" value="FFFF" maxlength="4" size="4">
+										</p>
+										<p>
+											<span>掩码位</span>
+											<input type="range" min="0" max="128" value="0">
+											<input class="input-text input-text-middle" type="number" min="0" max="128" name="mask" value="0">
+										</p>
+									</div>
+									<div class="input-set">
+										<p>子网地址范围</p>
+										<p>
+											<input class="input-text" type="text" name="subnet-min" value="0000:0000:0000:0000:0000:0000:0000:000" readonly="readonly">
+										</p>
+										<p>
+											<input class="input-text" type="text" name="subnet-max" value="FFFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF" readonly="readonly">
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="ft">
+							<h3>什么是IPv6地址？</h3>
+							<p>IPv4地址是类似 A.B.C.D 的格式，它是32位，用\".\"分成四段，用10进制表示；而IPv6地址类似X:X:X:X:X:X:X:X的格式，它是128位的，用\":\"分成8段，用16进制表示；可见，IPv6地址空间相对于IPv4地址有了极大的扩充。</p>
+							<p>RFC2373 中详细定义了IPv6地址，按照定义，一个完整的IPv6地址的表示法：xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx</p>
+							<p>类似于 IPv4中的CDIR表示法，IPv6用前缀来表示网络地址空间，比如：2001:251:e000::/48 表示前缀为48位的地址空间，其后的80位可分配给网络中的主机，共有2的80次方个地址。下图方便你比较IPv4和IPv6地址对应关系和区别。</p>
+							<h3>IPv6地址的表示方法</h3>
+							<p>IPv6的地址长度为128位，是IPv4地址长度的4倍。于是IPv4点分十进制格式不再适用，采用十六进制表示。IPv6有3种表示方法。</p>
+							<p><strong>（1）冒分十六进制表示法</strong></p>
+							<p>格式为X:X:X:X:X:X:X:X，其中每个X表示地址中的16b，以十六进制表示，例如：<br>
+							ABCD:EF01:2345:6789:ABCD:EF01:2345:6789</p>
+							<p>这种表示法中，每个X的前导0是可以省略的，例如：<br>
+							2001:0DB8:0000:0023:0008:0800:200C:417A→ 2001:DB8:0:23:8:800:200C:417A</p>
+							<p><strong>（2）0位压缩表示法</strong></p>
+							<p>在某些情况下，一个IPv6地址中间可能包含很长的一段0，可以把连续的一段0压缩为“::”。<br>
+								但为保证地址解析的唯一性，地址中”::”只能出现一次，例如：<br>
+FF01:0:0:0:0:0:0:1101 → FF01::1101 0:0:0:0:0:0:0:1 → ::1 0:0:0:0:0:0:0:0 → ::</p>
+                            <p><strong>（3）内嵌IPv4地址表示法</strong></p>
+                            <p>为了实现IPv4-IPv6互通，IPv4地址会嵌入IPv6地址中，此时地址常表示为：X:X:X:X:X:X:d.d.d.d，前96b采用冒分十六进制表示，而最后32b地址则使用IPv4的点分十进制表示。</p>
+                            <p>例如::192.168.0.1与::FFFF:192.168.0.1就是两个典型的例子，注意在前96b中，压缩0位的方法依旧适用。</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="footer">
+				<div class="mod-foot">
+					<div class="inner">
+						<div class="bd">
+							<p>
+								<span>兴宁市漫游科技有限公司</span>
+								<span>Copyright &copy; 2022</span>
+								<a href="javascript:;" target="_blank" rel="nofollow">粤ICP备20009057号</a>
+								<a href="javascript:;" target="_blank" rel="nofollow">粤公网安备 44148102000137号</a>
+								<a href="index.html">ip计算器</a>
+								<span>版权所有</span>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<script src="static/js/sea.js"></script>
+		<script type="text/javascript">
+			seajs.config({
+				'base': './static/script/dist',
+				'paths': {
+					'scriptUrl': './static/script/dist'
+				},
+				'alias': {
+					'jquery': 'https://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js',
+					'common': 'scriptUrl/public/common'
+				},
+				'map': [[/^(.*?\/script\/(?:src|dist)\/.*?\/.*?\.js$)(?:.*)$/i, '$1?v=20220617']],
+				'charset': 'utf-8'
+			});
+			seajs.use(['common'],function() {
+				seajs.use('scriptUrl/index/ipv6.js');
+			});
+		</script>
+		<script>
+		(function(){
+		var bp = document.createElement('script');
+		var curProtocol = window.location.protocol.split(':')[0];
+		if (curProtocol === 'https') {
+		bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+		}
+		else {
+		bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+		}
+		var s = document.getElementsByTagName("script")[0];
+		s.parentNode.insertBefore(bp, s);
+		})();
+		</script>
+		<script>
+        (function(){
+        var src = "https://jspassport.ssl.qhimg.com/11.0.1.js?d182b3f28525f2db83acfaaf6e696dba";
+        document.write('<script src="' + src + '" id="sozz"><\/script>');
+        })();
+        </script>
+        <script>
+		var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "https://hm.baidu.com/hm.js?5e9dcc0eb714b7307c89043a6b35195d";
+		  var s = document.getElementsByTagName("script")[0]; 
+		  s.parentNode.insertBefore(hm, s);
+		})();
+		</script>
+	</body>
+</html>
