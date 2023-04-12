@@ -466,7 +466,11 @@ function bits2d(e) {
 function initPage() {
     document.forms[0].elements.length && SetOrder()
 }
+
+debugger
+
 $(function(){
+    debugger
     var _0x5a53 = ["jsjiami.com.v6", "ujsjiBLnpakXqpmnQi.com.v6zxZ==", "wpIcwoo2LQ==", "G8KfwoUEw4o=", "w43Dh8KDcXo=", "PzLDhnPDoQ==", "wpfCnwkGwrQ=", "wqglwp3DklI=", "csK5w5gAw5Y=", "wqVwwrtbw5w=", "AsKxHh7DuQ==", "bcK2BWvDjQ==", "ZMKFNGjDiQ==", "w6cZfMKSwoI=", "wrDCrcOTK8O2", "w6oXw79/bw==", "w6RDwofCpsOI", "IcOEw6pzwoszw7rDuT/ChiPDrXXDiG3Cs8KhaiLCmMOTGXbClBgYwr5Awo8lwpLDvMKhRFhEPsO9wrEvwoLCrjA=", "FjrCmG4G", "w4XCuCrCo8Ov", "CcOjcMO5wrc=", "MMKqMlRz", "XkXDlMOPBA==", "KMKuCAvDhg==", "fcO2w5HCt8KH", "R8Opw7HCi8O0", "CsKyN2dP", "w6kiVsKvwqQ=", "DSfCglYm", "ERvDg0XDtg==", "ScKiwqPDs8K5", "w7c6K8Kkwo4=", "CARjw4lS", "wpTCjz4NwoM=", "w6LClCXClsOm", "NcODLMKww4U=", "w4jClRjCt8Ol", "w5bCrMKLwrTChQ==", "C8O4AQ==", "w4rDpcOiw47Dtw==", "OsOBATfCkQ==", "w5/DocOWw4rDjg==", "wp1Iwqlvw4s=", "w63DgAxHOA==", "IwPDkkXDnw==", "AsKgwosLw64=", "G34pwoZE", "w5dQCcKKAw==", "wpwuwpA4Kg==", "JX0sw6pd", "S8KeYMOiwqs=", "wolJwqJfw6w=", "wobCnMOvN8OG", "wq0IU8KGfg==", "ETYRSgk=", "JcKLwrgKw5E=", "w5l1GMKRKg==", "w5LClEfCq8OB", "TnDDv8OWMA==", "wpXCnsK1wo/CjsK9w5TCrGbDsMKiwr4Tw7TChsKm", "cMOiw5zClsO6", "WcKhwoTDgcKK", "w7DCjMOneMKg", "w7LDjsOmw7nDrQ==", "Z8OQw4LCncOG", "w4HDq8Oow5HDjA==", "w43Ci3rCqsON", "T8KiacOiwo51", "wpA9VMK+Rw==", "wqt3OQJiESbDol8rFjkdwo7DkcKrwpPDtEbClEYUwrQtR8OTDmHCv8Ogw6MsLSYBw7EJPcORdsOQwr3Dlw==", "SVjDnsOJPA==", "w5QSw5FtZw==", "EMKvwpkiw5I=", "NhcKZBI=", "cB8CLGQ=", "fsOJw5rClQ==", "wovCp8OuKw==", "CsKuXMKCSA==", "w7w2w75cYg==", "KsO2L8KGw74=", "wonCnMOxKMOu", "acK1wqDDmsKs", "woXDnMKQR8Ot", "WsKlwr7DoMK2", "acKLRsOBwoM=", "YMKnwoXDh8KU", "ZsO8w63ChcKf", "BsKOwpccw60=", "Nm05w4xr", "wrc0wqY6NQ==", "DsKdDCjDmQ==", "wrgeTcKcUA==", "w7nCqcOCRcK7", "PcKXHm1M", "LVAGw6NQ", "woXDocKWXsOA", "E8KRMGRh", "fWxrZA0=", "dF7DnMO0KQ==", "w6hxBMKwPA==", "KlEkw4Zm", "DEAqwpF5", "W1jDlsODBQ==", "B8OLccOJwow=", "IMKzesK9Zg==", "wqM0wocoEQ==", "w4jCr8OUdcK7", "EMO1OCbCvQ==", "M8KgPADDhQ==", "wrLDucKydMOV", "woEywq81", "G8K1wqYj", "LwgPYw==", "YGTDvsOnAw==", "w5ptLsK+Cw==", "w4bDh8Omw47Du8O8", "CMKKJTXDmg==", "Ny7CvmYl", "w5DCqwbCi8Oj", "JA/DkkTDvA==", "D8OhMiPCtw==", "EsK0wok8w6Q=", "w4nDhigUHcKBw5vCsQ==", "XMKIQ8OBwqo=", "wppqwqUNw6DDiAXDkAg=", "ZsKmw48Uw5E=", "w4TCrFvCumw=", "woIZYcKedg==", "w5XCqRLCl8OT", "R8K5w68ww7A=", "F8OUUcOtwqU=", "Pl4Mwot3", "wqTDm8K8esOr", "w4VzwoTCs8OK", "RMKNbsOhwpg=", "P8OEK8K9w7M=", "w4nCimnCnE8=", "IMKGV8KOeg==", "PQ3CrX0d", "IA4xRwE=", "A3cQw7R9", "w4vCgMK1wq/CiA==", "w5tNwqzCocO8", "YsOfw73CmMOt", "JiIBSzw=", "wrk3YMKKSA==", "w4bCn8O3VcKi", "a8KFwpHDs8Ka"], a, b;
     a = _0x5a53,
     b = 372,
@@ -844,6 +848,7 @@ $(function(){
           , A = ""
           , D = ""
           , j = "";
+          debugger
         if (t[_0x3a65("36", ")AQX")](a, 31))
             for (var S = t.sBAKu[_0x3a65("37", "6p0j")]("|"), I = 0; ; ) {
                 switch (S[I++]) {
