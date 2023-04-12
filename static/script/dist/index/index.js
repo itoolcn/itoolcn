@@ -467,855 +467,854 @@ function initPage() {
     document.forms[0].elements.length && SetOrder()
 }
 
-debugger
 
-$(function(){
-    debugger
-    var _0x5a53 = ["jsjiami.com.v6", "ujsjiBLnpakXqpmnQi.com.v6zxZ==", "wpIcwoo2LQ==", "G8KfwoUEw4o=", "w43Dh8KDcXo=", "PzLDhnPDoQ==", "wpfCnwkGwrQ=", "wqglwp3DklI=", "csK5w5gAw5Y=", "wqVwwrtbw5w=", "AsKxHh7DuQ==", "bcK2BWvDjQ==", "ZMKFNGjDiQ==", "w6cZfMKSwoI=", "wrDCrcOTK8O2", "w6oXw79/bw==", "w6RDwofCpsOI", "IcOEw6pzwoszw7rDuT/ChiPDrXXDiG3Cs8KhaiLCmMOTGXbClBgYwr5Awo8lwpLDvMKhRFhEPsO9wrEvwoLCrjA=", "FjrCmG4G", "w4XCuCrCo8Ov", "CcOjcMO5wrc=", "MMKqMlRz", "XkXDlMOPBA==", "KMKuCAvDhg==", "fcO2w5HCt8KH", "R8Opw7HCi8O0", "CsKyN2dP", "w6kiVsKvwqQ=", "DSfCglYm", "ERvDg0XDtg==", "ScKiwqPDs8K5", "w7c6K8Kkwo4=", "CARjw4lS", "wpTCjz4NwoM=", "w6LClCXClsOm", "NcODLMKww4U=", "w4jClRjCt8Ol", "w5bCrMKLwrTChQ==", "C8O4AQ==", "w4rDpcOiw47Dtw==", "OsOBATfCkQ==", "w5/DocOWw4rDjg==", "wp1Iwqlvw4s=", "w63DgAxHOA==", "IwPDkkXDnw==", "AsKgwosLw64=", "G34pwoZE", "w5dQCcKKAw==", "wpwuwpA4Kg==", "JX0sw6pd", "S8KeYMOiwqs=", "wolJwqJfw6w=", "wobCnMOvN8OG", "wq0IU8KGfg==", "ETYRSgk=", "JcKLwrgKw5E=", "w5l1GMKRKg==", "w5LClEfCq8OB", "TnDDv8OWMA==", "wpXCnsK1wo/CjsK9w5TCrGbDsMKiwr4Tw7TChsKm", "cMOiw5zClsO6", "WcKhwoTDgcKK", "w7DCjMOneMKg", "w7LDjsOmw7nDrQ==", "Z8OQw4LCncOG", "w4HDq8Oow5HDjA==", "w43Ci3rCqsON", "T8KiacOiwo51", "wpA9VMK+Rw==", "wqt3OQJiESbDol8rFjkdwo7DkcKrwpPDtEbClEYUwrQtR8OTDmHCv8Ogw6MsLSYBw7EJPcORdsOQwr3Dlw==", "SVjDnsOJPA==", "w5QSw5FtZw==", "EMKvwpkiw5I=", "NhcKZBI=", "cB8CLGQ=", "fsOJw5rClQ==", "wovCp8OuKw==", "CsKuXMKCSA==", "w7w2w75cYg==", "KsO2L8KGw74=", "wonCnMOxKMOu", "acK1wqDDmsKs", "woXDnMKQR8Ot", "WsKlwr7DoMK2", "acKLRsOBwoM=", "YMKnwoXDh8KU", "ZsO8w63ChcKf", "BsKOwpccw60=", "Nm05w4xr", "wrc0wqY6NQ==", "DsKdDCjDmQ==", "wrgeTcKcUA==", "w7nCqcOCRcK7", "PcKXHm1M", "LVAGw6NQ", "woXDocKWXsOA", "E8KRMGRh", "fWxrZA0=", "dF7DnMO0KQ==", "w6hxBMKwPA==", "KlEkw4Zm", "DEAqwpF5", "W1jDlsODBQ==", "B8OLccOJwow=", "IMKzesK9Zg==", "wqM0wocoEQ==", "w4jCr8OUdcK7", "EMO1OCbCvQ==", "M8KgPADDhQ==", "wrLDucKydMOV", "woEywq81", "G8K1wqYj", "LwgPYw==", "YGTDvsOnAw==", "w5ptLsK+Cw==", "w4bDh8Omw47Du8O8", "CMKKJTXDmg==", "Ny7CvmYl", "w5DCqwbCi8Oj", "JA/DkkTDvA==", "D8OhMiPCtw==", "EsK0wok8w6Q=", "w4nDhigUHcKBw5vCsQ==", "XMKIQ8OBwqo=", "wppqwqUNw6DDiAXDkAg=", "ZsKmw48Uw5E=", "w4TCrFvCumw=", "woIZYcKedg==", "w5XCqRLCl8OT", "R8K5w68ww7A=", "F8OUUcOtwqU=", "Pl4Mwot3", "wqTDm8K8esOr", "w4VzwoTCs8OK", "RMKNbsOhwpg=", "P8OEK8K9w7M=", "w4nCimnCnE8=", "IMKGV8KOeg==", "PQ3CrX0d", "IA4xRwE=", "A3cQw7R9", "w4vCgMK1wq/CiA==", "w5tNwqzCocO8", "YsOfw73CmMOt", "JiIBSzw=", "wrk3YMKKSA==", "w4bCn8O3VcKi", "a8KFwpHDs8Ka"], a, b;
-    a = _0x5a53,
-    b = 372,
-    function(e, t, n, o) {
-        if ((t >>= 8) < e) {
-            for (; --e; )
-                o = a.shift(),
-                t === e ? (t = o,
-                n = a.shift()) : n.replace(/[uBLnpkXqpnQzxZ=]/g, "") === t && a.push(o);
-            a.push(a.shift())
-        }
-    }(++b, 95232);
-    var _0x3a65 = function(e, a) {
-        e = ~~"0x".concat(e);
-        var t = _0x5a53[e];
-        if (void 0 === _0x3a65.KpULQI) {
-            !function() {
-                var e = "undefined" != typeof window ? window : "object" == typeof process && "function" == typeof require && "object" == typeof global ? global : this;
-                e.atob || (e.atob = function(e) {
-                    for (var a, t, n = String(e).replace(/=+$/, ""), o = 0, u = 0, l = ""; t = n.charAt(u++); ~t && (a = o % 4 ? 64 * a + t : t,
-                    o++ % 4) && (l += String.fromCharCode(255 & a >> (-2 * o & 6))))
-                        t = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".indexOf(t);
-                    return l
-                }
-                )
-            }();
-            _0x3a65.USfptU = function(e, a) {
-                for (var t, n = [], o = 0, u = "", l = "", r = 0, v = (e = atob(e)).length; r < v; r++)
-                    l += "%" + ("00" + e.charCodeAt(r).toString(16)).slice(-2);
-                e = decodeURIComponent(l);
-                for (var c = 0; c < 256; c++)
-                    n[c] = c;
-                for (c = 0; c < 256; c++)
-                    o = (o + n[c] + a.charCodeAt(c % a.length)) % 256,
-                    t = n[c],
-                    n[c] = n[o],
-                    n[o] = t;
-                for (var i = o = c = 0; i < e.length; i++)
-                    o = (o + n[c = (c + 1) % 256]) % 256,
-                    t = n[c],
-                    n[c] = n[o],
-                    n[o] = t,
-                    u += String.fromCharCode(e.charCodeAt(i) ^ n[(n[c] + n[o]) % 256]);
-                return u
-            }
-            ,
-            _0x3a65.IVowYj = {},
-            _0x3a65.KpULQI = !0
-        }
-        var n = _0x3a65.IVowYj[e];
-        return void 0 === n ? (void 0 === _0x3a65.zznDXa && (_0x3a65.zznDXa = !0),
-        t = _0x3a65.USfptU(t, a),
-        _0x3a65.IVowYj[e] = t) : t = n,
-        t
-    }
-      , h_fillbitsfromleft = function(e) {
-        var a = {
-            hgsrT: function(e, a) {
-                return e >> a
-            },
-            ReHUv: function(e, a) {
-                return a <= e
-            },
-            EANQL: function(e, a) {
-                return e !== a
-            },
-            DjxjB: "vxivV",
-            zrgqL: _0x3a65("0", "L%Iy"),
-            xDvDH: function(e, a) {
-                return a < e
-            },
-            wTXQS: function(e, a) {
-                return e === a
-            },
-            blJPB: function(e, a) {
-                return e & a
-            }
-        };
-        if (a[_0x3a65("1", "fTC8")](e, 8)) {
-            if (a[_0x3a65("2", "B1v%")](a.DjxjB, a.zrgqL))
-                return 255;
-            bitpat = a[_0x3a65("3", "fTC8")](bitpat, 1),
-            e--
-        }
-        for (bitpat = 65280; a[_0x3a65("4", "[]WR")](e, 0); )
-            a[_0x3a65("5", ")g[%")](_0x3a65("6", "!E(A"), _0x3a65("7", "UuYy")) ? (bitpat = a[_0x3a65("8", "^Vfe")](bitpat, 1),
-            e--) : bit7 = 1;
-        return a[_0x3a65("9", "34P2")](bitpat, 255)
-    }
-      , calcNWmask = function(_0x485032, _0x19b66d) {
-        var _0x24c6fd = {
-            FmdBu: function(e, a) {
-                return a < e
-            },
-            uMhob: function(e, a) {
-                return a < e
-            },
-            zidQV: function(e, a) {
-                return a < e
-            },
-            apdcM: function(e, a) {
-                return e(a)
-            },
-            kbNBy: function(e, a) {
-                return e(a)
-            },
-            sEAZh: function(e, a) {
-                return e + a
-            },
-            HiAsK: function(e, a) {
-                return e + a
-            },
-            muDfC: function(e, a) {
-                return e + a
-            },
-            UZCZH: function(e, a) {
-                return e * a
-            },
-            CKCbw: function(e, a) {
-                return e * a
-            },
-            EAxwR: function(e, a) {
-                return e(a)
-            },
-            JlEsV: function(e, a) {
-                return e === a
-            },
-            ZhfoM: _0x3a65("a", "0q7c"),
-            NvnTa: _0x3a65("b", "C3a8"),
-            ZLLGK: function(e, a) {
-                return e !== a
-            },
-            HrHWx: _0x3a65("c", "!E(A"),
-            npZoW: function(e, a) {
-                return a <= e
-            },
-            RdJaW: function(e, a) {
-                return e(a)
-            },
-            aIuXD: function(e, a) {
-                return a <= e
-            },
-            tvDGs: _0x3a65("d", "L%Iy"),
-            cnFqZ: function(e, a) {
-                return e(a)
-            }
-        };
-        if (32 < _0x19b66d || _0x19b66d < 0) {
-            if (_0x24c6fd[_0x3a65("e", "jQm!")](_0x24c6fd[_0x3a65("f", "7%Ld")], _0x24c6fd[_0x3a65("10", "!fk[")])) {
-                var _0x4479b4 = _0x485032[_0x3a65("11", "G[6G")](".")
-                  , _0x2c02e2 = [0, 0, 0, 0]
-                  , _0x406859 = [0, 0, 0, 0]
-                  , _0x4e3efd = 0;
-                return 255 < _0x4479b4[0] && (_0x4479b4[0] = 255),
-                _0x24c6fd[_0x3a65("12", "!E(A")](_0x4479b4[1], 255) && (_0x4479b4[1] = 255),
-                _0x24c6fd.uMhob(_0x4479b4[2], 255) && (_0x4479b4[2] = 255),
-                _0x24c6fd[_0x3a65("13", "&V*i")](_0x4479b4[3], 255) && (_0x4479b4[3] = 255),
-                _0x2c02e2[0] = _0x24c6fd.apdcM(dec2bin, _0x4479b4[0]),
-                _0x2c02e2[1] = _0x24c6fd[_0x3a65("14", "!fk[")](dec2bin, _0x4479b4[1]),
-                _0x2c02e2[2] = _0x24c6fd[_0x3a65("15", "o1$0")](dec2bin, _0x4479b4[2]),
-                _0x2c02e2[3] = _0x24c6fd.apdcM(dec2bin, _0x4479b4[3]),
-                _0x406859[0] = _0x24c6fd.kbNBy(dec2hex, _0x4479b4[0]),
-                _0x406859[1] = dec2hex(_0x4479b4[1]),
-                _0x406859[2] = dec2hex(_0x4479b4[2]),
-                _0x406859[3] = dec2hex(_0x4479b4[3]),
-                _0x4e3efd = _0x24c6fd[_0x3a65("16", "6p0j")](_0x24c6fd[_0x3a65("17", "vw96")](_0x24c6fd[_0x3a65("18", "6Dx%")](eval(16777216 * _0x4479b4[0]), _0x24c6fd[_0x3a65("19", "FUs7")](eval, _0x24c6fd[_0x3a65("1a", "^Vfe")](_0x4479b4[1], 65536))), eval(_0x24c6fd[_0x3a65("1b", "L%Iy")](_0x4479b4[2], 256))), _0x24c6fd.EAxwR(eval, _0x4479b4[3])),
-                {
-                    dec: _0x4479b4[_0x3a65("1c", "vw96")]("."),
-                    bin: _0x2c02e2[_0x3a65("1d", ")g[%")](""),
-                    hex: _0x406859[_0x3a65("1e", "oQK^")](""),
-                    long: _0x4e3efd
-                }
-            }
-            return !1
-        }
-        var _0x1ed06f = 0
-          , _0x5a00a3 = 0
-          , _0x2b169c = 0
-          , _0xd8e1e6 = 0;
-        return 8 <= _0x19b66d ? (_0x24c6fd[_0x3a65("1f", "!fk[")](_0x3a65("20", "G[6G"), _0x24c6fd.HrHWx) ? (k = 15 & j,
-        hv = hexchars[_0x3a65("21", "tCK1")](k) + hv,
-        j >>= 4) : (_0x1ed06f = 255,
-        _0x19b66d -= 8),
-        _0x24c6fd[_0x3a65("22", "^Vfe")](_0x19b66d, 8) ? (_0x5a00a3 = 255,
-        _0x19b66d -= 8,
-        _0x24c6fd[_0x3a65("24", "ZdTG")](_0x19b66d, 8) ? (_0x24c6fd[_0x3a65("25", "CU%v")] !== _0x24c6fd[_0x3a65("26", "FUs7")] ? bit6 = 1 : (_0x2b169c = 255,
-        _0x19b66d -= 8),
-        _0xd8e1e6 = h_fillbitsfromleft(_0x19b66d)) : _0x2b169c = _0x24c6fd[_0x3a65("27", ")g[%")](h_fillbitsfromleft, _0x19b66d),
-        [_0x1ed06f, _0x5a00a3, _0x2b169c, _0xd8e1e6]) : (_0x5a00a3 = _0x24c6fd[_0x3a65("23", "xMRW")](h_fillbitsfromleft, _0x19b66d),
-        [_0x1ed06f, _0x5a00a3, _0x2b169c, _0xd8e1e6])) : (_0x1ed06f = h_fillbitsfromleft(_0x19b66d),
-        [_0x1ed06f, _0x5a00a3, _0x2b169c, _0xd8e1e6])
-    }
-      , calcNBFL = function(e, a) {
-        var t = {
-            dKaDt: _0x3a65("28", "FPT!"),
-            WIyrL: function(e, a) {
-                return e + a
-            },
-            qoDGd: function(e, a) {
-                return e + a
-            },
-            HwBKX: function(e, a) {
-                return e + a
-            },
-            UiMlI: function(e, a) {
-                return e + a
-            },
-            hGfqW: function(e, a) {
-                return e + a
-            },
-            HZBaT: function(e, a, t) {
-                return e(a, t)
-            },
-            vVYVm: function(e, a) {
-                return a < e
-            },
-            FKCPw: function(e, a) {
-                return e === a
-            },
-            OXKXw: "ZxbvZ",
-            XkfRd: _0x3a65("29", "B1v%"),
-            KmqvT: function(e, a) {
-                return e == a
-            },
-            sBAKu: "0|2|1|4|3|6|8|9|7|5",
-            XGYzo: _0x3a65("2a", "4UVO"),
-            eiWJg: function(e, a) {
-                return e & a
-            },
-            oKPpn: function(e, a) {
-                return e & a
-            },
-            vyNca: function(e, a) {
-                return e + a
-            },
-            cEgFZ: function(e, a) {
-                return e + a
-            },
-            yALmw: function(e, a) {
-                return e + a
-            },
-            jEJIt: function(e, a) {
-                return e + a
-            },
-            NLrqS: function(e, a) {
-                return e + a
-            },
-            PfaNv: function(e, a) {
-                return e & a
-            },
-            PBSiZ: function(e, a) {
-                return e | a
-            },
-            bINBj: function(e, a) {
-                return e & a
-            },
-            argSO: function(e, a) {
-                return e + a
-            },
-            hAVPK: function(e, a) {
-                return e + a
-            },
-            QeTnT: function(e, a) {
-                return e + a
-            },
-            urvEY: function(e, a) {
-                return e + a
-            },
-            TyNiR: function(e, a) {
-                return e + a
-            },
-            AcBcl: function(e, a) {
-                return e !== a
-            },
-            KRXNN: function(e, a) {
-                return e(a)
-            },
-            tZYpH: function(e, a) {
-                return e | a
-            },
-            oXeSv: function(e, a) {
-                return e & a
-            },
-            GwiUX: function(e, a) {
-                return e & a
-            },
-            WVJjL: function(e, a) {
-                return e & a
-            },
-            dmfoL: function(e, a) {
-                return e & a
-            },
-            NTwQK: function(e, a) {
-                return e & a
-            },
-            cNJvP: function(e, a) {
-                return e + a
-            },
-            cbarp: function(e, a) {
-                return e + a
-            },
-            SOBpx: function(e, a) {
-                return e + a
-            },
-            hmvQT: function(e, a) {
-                return e + a
-            },
-            AbUFy: function(e, a) {
-                return e + a
-            },
-            ZSOFK: function(e, a) {
-                return e + a
-            },
-            aoePR: function(e, a) {
-                return e + a
-            },
-            AKkmZ: function(e, a) {
-                return e + a
-            },
-            SvVEA: function(e, a) {
-                return e + a
-            },
-            ywkdB: function(e, a) {
-                return e + a
-            },
-            ukXjZ: function(e, a) {
-                return e + a
-            },
-            EZlbO: function(e, a) {
-                return e - a
-            },
-            oJerM: function(e, a) {
-                return e & a
-            },
-            AVwSU: function(e, a) {
-                return e & a
-            }
-        }
-          , n = t.HZBaT(calcNWmask, e, a)
-          , o = n[0]
-          , u = n[1]
-          , l = n[2]
-          , r = n[3];
-        if (t[_0x3a65("2b", "[TS3")](a, 32) || a < 0)
-            return !!t[_0x3a65("2c", ")AQX")](t.OXKXw, t[_0x3a65("2d", "34P2")]) && (d = c,
-            f = i,
-            m = _,
-            b = s,
-            {
-                numofaddr: v = t[_0x3a65("2e", "ZdTG")],
-                snm: t[_0x3a65("2f", "[TS3")](t[_0x3a65("30", "o1$0")](o + "." + u + "." + l, "."), r),
-                firstadr: t[_0x3a65("31", "&V*i")](t.HwBKX(t[_0x3a65("32", "L%Iy")](t[_0x3a65("33", "Clii")](t[_0x3a65("34", "B1v%")](d, ".") + f, "."), m), "."), b),
-                lastadr: "",
-                bcast: "",
-                nwadr: ""
-            });
-        var v = ""
-          , c = (n = e[_0x3a65("35", "dPKj")]("."))[0]
-          , i = n[1]
-          , _ = n[2]
-          , s = n[3]
-          , d = ""
-          , f = ""
-          , m = ""
-          , b = ""
-          , w = ""
-          , p = ""
-          , x = ""
-          , h = ""
-          , g = ""
-          , K = ""
-          , N = ""
-          , C = ""
-          , O = ""
-          , A = ""
-          , D = ""
-          , j = "";
-          debugger
-        if (t[_0x3a65("36", ")AQX")](a, 31))
-            for (var S = t.sBAKu[_0x3a65("37", "6p0j")]("|"), I = 0; ; ) {
-                switch (S[I++]) {
-                case "0":
-                    v = t[_0x3a65("38", "xMRW")];
-                    continue;
-                case "1":
-                    f = t[_0x3a65("39", "oQK^")](i, u);
-                    continue;
-                case "2":
-                    d = t.oKPpn(c, o);
-                    continue;
-                case "3":
-                    b = t[_0x3a65("3a", "!E(A")](s, r);
-                    continue;
-                case "4":
-                    m = t.oKPpn(_, l);
-                    continue;
-                case "5":
-                    return {
-                        numofaddr: v,
-                        snm: t[_0x3a65("3b", "*9XU")](t[_0x3a65("3c", "Clii")](t[_0x3a65("3d", "xuK3")](t[_0x3a65("3e", "oQK^")](t.cEgFZ(o + ".", u), "."), l), "."), r),
-                        firstadr: t[_0x3a65("3f", "34P2")](t[_0x3a65("40", "6Dx%")](t[_0x3a65("41", "fTC8")](t[_0x3a65("42", "vw96")](d + ".", f), "."), m), ".") + b,
-                        lastadr: t[_0x3a65("43", ")g[%")](t.NLrqS(t[_0x3a65("44", "8SMa")](w, "."), p) + "." + x + ".", h),
-                        bcast: "",
-                        nwadr: ""
-                    };
-                case "6":
-                    w = c | t[_0x3a65("45", "CU%v")](~o, 255);
-                    continue;
-                case "7":
-                    h = s | t[_0x3a65("46", "(Isi")](~r, 255);
-                    continue;
-                case "8":
-                    p = t[_0x3a65("47", "YiWD")](i, t.bINBj(~u, 255));
-                    continue;
-                case "9":
-                    x = _ | t[_0x3a65("48", "[TS3")](~l, 255);
-                    continue
-                }
-                break
-            }
-        else {
-            if (t[_0x3a65("49", "4UVO")](a, 32))
-                return d = c,
-                f = i,
-                m = _,
-                b = s,
-                {
-                    numofaddr: v = t[_0x3a65("4a", "^Vfe")],
-                    snm: t[_0x3a65("4b", "C2$b")](t.argSO(t.argSO(t[_0x3a65("4c", "C2$b")](t[_0x3a65("4d", "@sUS")](o, "."), u) + ".", l), "."), r),
-                    firstadr: t.QeTnT(t.QeTnT(t[_0x3a65("4e", "GX#V")](t[_0x3a65("4f", "weGO")](t.TyNiR(d + ".", f), "."), m), "."), b),
-                    lastadr: "",
-                    bcast: "",
-                    nwadr: ""
-                };
-            if (t.AcBcl("IwedU", _0x3a65("50", "Clii")))
-                bit1 = 1;
-            else
-                for (var M = _0x3a65("51", "[TS3")[_0x3a65("52", "xMRW")]("|"), k = 0; ; ) {
-                    switch (M[k++]) {
-                    case "0":
-                        h = t.KRXNN(parseInt, C) - 1;
-                        continue;
-                    case "1":
-                        x = N;
-                        continue;
-                    case "2":
-                        m = D;
-                        continue;
-                    case "3":
-                        d = O;
-                        continue;
-                    case "4":
-                        w = g;
-                        continue;
-                    case "5":
-                        N = t[_0x3a65("53", "ZdTG")](_, t[_0x3a65("54", "o1$0")](~l, 255));
-                        continue;
-                    case "6":
-                        b = t.TyNiR(t.KRXNN(parseInt, j), 1);
-                        continue;
-                    case "7":
-                        j = t[_0x3a65("55", "C3a8")](s, r);
-                        continue;
-                    case "8":
-                        A = t.WVJjL(i, u);
-                        continue;
-                    case "9":
-                        K = i | t[_0x3a65("56", "!fk[")](~u, 255);
-                        continue;
-                    case "10":
-                        D = t[_0x3a65("57", "^Vfe")](_, l);
-                        continue;
-                    case "11":
-                        f = A;
-                        continue;
-                    case "12":
-                        p = K;
-                        continue;
-                    case "13":
-                        return {
-                            numofaddr: v,
-                            snm: t[_0x3a65("58", "[]WR")](t.cNJvP(t.cbarp(t.SOBpx(t[_0x3a65("59", "xuK3")](t[_0x3a65("5a", "jQm!")](o, "."), u), "."), l), "."), r),
-                            firstadr: t.SOBpx(t[_0x3a65("5b", "XCnx")](t[_0x3a65("5c", "xMRW")](d, ".") + f + ".", m), ".") + b,
-                            lastadr: t[_0x3a65("5d", "CU%v")](t[_0x3a65("5e", "fTC8")](t.AbUFy(t.ZSOFK(w + ".", p), "."), x), ".") + h,
-                            bcast: t[_0x3a65("5f", "!I)F")](t[_0x3a65("60", "(GZl")](t[_0x3a65("61", "(Isi")](t[_0x3a65("62", "ZdTG")](t.SvVEA(t[_0x3a65("63", "dPKj")](g, "."), K), "."), N), "."), C),
-                            nwadr: t[_0x3a65("64", "ZdTG")](t[_0x3a65("65", "*9XU")](t.ukXjZ(O + "." + A, "."), D), ".") + j
-                        };
-                    case "14":
-                        v = Math[_0x3a65("66", "FUs7")](2, t.EZlbO(32, a)) - 2;
-                        continue;
-                    case "15":
-                        C = s | t[_0x3a65("67", "tCK1")](~r, 255);
-                        continue;
-                    case "16":
-                        O = t[_0x3a65("68", "FUs7")](c, o);
-                        continue;
-                    case "17":
-                        g = c | 255 & ~o;
-                        continue
-                    }
-                    break
-                }
-        }
-    }
-      , dec2bin = function(e) {
-        var a = {
-            LQaSK: function(e, a) {
-                return a <= e
-            },
-            qKOJg: function(e, a) {
-                return a < e
-            },
-            IAlnN: function(e, a) {
-                return e & a
-            },
-            sUcBC: function(e, a) {
-                return e & a
-            },
-            KhAsM: function(e, a) {
-                return e !== a
-            },
-            gThrd: function(e, a) {
-                return e & a
-            },
-            lCLkf: "mWgFk",
-            PLKfj: function(e, a) {
-                return e & a
-            },
-            wzTJl: function(e, a) {
-                return e !== a
-            },
-            TQwGo: _0x3a65("69", "tCK1"),
-            BtpHb: function(e, a) {
-                return e + a
-            },
-            tXMvx: function(e, a) {
-                return e + a
-            }
-        }
-          , t = 0
-          , n = 0
-          , o = 0
-          , u = 0
-          , l = 0
-          , r = 0
-          , v = 0
-          , c = 0;
-        if (a.sUcBC(e, 128) && (t = 1),
-        64 & e && (n = 1),
-        a[_0x3a65("6a", "4UVO")](e, 32) && (a[_0x3a65("6b", "FPT!")](_0x3a65("6c", "CU%v"), _0x3a65("6d", ")g[%")) ? (snm_1 = 255,
-        bits -= 8) : o = 1),
-        a.gThrd(e, 16)) {
-            if (a.lCLkf !== _0x3a65("6e", "&V*i")) {
-                if (a[_0x3a65("6f", "G[6G")](num, 8))
-                    return 255;
-                for (bitpat = 65280; a[_0x3a65("70", "UuYy")](num, 0); )
-                    bitpat >>= 1,
-                    num--;
-                return a[_0x3a65("71", "!E(A")](bitpat, 255)
-            }
-            u = 1
-        }
-        return a[_0x3a65("72", "B1v%")](e, 8) && (l = 1),
-        a[_0x3a65("73", "4UVO")](e, 4) && (r = 1),
-        a[_0x3a65("74", "GX#V")](e, 2) && (v = 1),
-        a.PLKfj(e, 1) && (a[_0x3a65("75", "34P2")](a[_0x3a65("76", "oQK^")], a[_0x3a65("77", ")g[%")]) ? r = 1 : c = 1),
-        a[_0x3a65("78", "G[6G")](a[_0x3a65("79", "^7#P")](a[_0x3a65("7a", "!fk[")]("", t) + n + o, u) + l + r, v) + c
-    }
-      , dec2hex = function(e) {
-        for (var a = {
-            QartJ: _0x3a65("7b", "tCK1"),
-            GKOLq: function(e, a) {
-                return e < a
-            },
-            WaaEW: function(e, a) {
-                return e === a
-            },
-            svqfJ: _0x3a65("7c", "xuK3"),
-            kGpwt: function(e, a) {
-                return e & a
-            },
-            JOSrU: function(e, a) {
-                return e >> a
-            }
-        }, t = e, n = a[_0x3a65("7d", "fTC8")], o = "", u = 0; a[_0x3a65("7e", "0q7c")](u, 2); u++) {
-            if (!a[_0x3a65("7f", "tCK1")](a[_0x3a65("80", "xuK3")], _0x3a65("81", "tCK1")))
-                return !1;
-            k = a[_0x3a65("82", "^7#P")](t, 15),
-            o = n[_0x3a65("83", "B1v%")](k) + o,
-            t = a[_0x3a65("84", "34P2")](t, 4)
-        }
-        return o
-    }
-      , conversion = function(_0x58c2f2) {
-        for (var _0x4beee6 = {
-            KwXWQ: function(e, a) {
-                return e(a)
-            },
-            auVol: function(e, a) {
-                return a < e
-            },
-            YXgeF: function(e, a) {
-                return e(a)
-            },
-            HEiDw: function(e, a) {
-                return e + a
-            },
-            cSwfT: function(e, a) {
-                return e(a)
-            },
-            fBhRy: function(e, a) {
-                return e * a
-            },
-            hTvmL: function(e, a) {
-                return e(a)
-            },
-            DNYDP: function(e, a) {
-                return a < e
-            }
-        }, _0x30a39e = _0x3a65("85", "nB[S")[_0x3a65("86", "!fk[")]("|"), _0x6fa47 = 0; ; ) {
-            switch (_0x30a39e[_0x6fa47++]) {
-            case "0":
-                _0x32c34b[1] = dec2bin(_0x1d4960[1]);
-                continue;
-            case "1":
-                _0x248626[3] = _0x4beee6[_0x3a65("87", "weGO")](dec2hex, _0x1d4960[3]);
-                continue;
-            case "2":
-                var _0x33071d = 0;
-                continue;
-            case "3":
-                _0x248626[0] = dec2hex(_0x1d4960[0]);
-                continue;
-            case "4":
-                _0x4beee6[_0x3a65("88", ")g[%")](_0x1d4960[0], 255) && (_0x1d4960[0] = 255);
-                continue;
-            case "5":
-                var _0x1d4960 = _0x58c2f2[_0x3a65("89", "oQK^")](".");
-                continue;
-            case "6":
-                var _0x248626 = [0, 0, 0, 0];
-                continue;
-            case "7":
-                _0x248626[2] = _0x4beee6[_0x3a65("8a", "!SxZ")](dec2hex, _0x1d4960[2]);
-                continue;
-            case "8":
-                return {
-                    dec: _0x1d4960[_0x3a65("8b", "xuK3")]("."),
-                    bin: _0x32c34b[_0x3a65("8c", "GX#V")](""),
-                    hex: _0x248626.join(""),
-                    long: _0x33071d
-                };
-            case "9":
-                _0x32c34b[0] = dec2bin(_0x1d4960[0]);
-                continue;
-            case "10":
-                _0x32c34b[2] = dec2bin(_0x1d4960[2]);
-                continue;
-            case "11":
-                _0x248626[1] = _0x4beee6[_0x3a65("8d", "6p0j")](dec2hex, _0x1d4960[1]);
-                continue;
-            case "12":
-                _0x33071d = _0x4beee6.HEiDw(eval(16777216 * _0x1d4960[0]) + _0x4beee6[_0x3a65("8e", "weGO")](eval, _0x4beee6[_0x3a65("8f", "dPKj")](_0x1d4960[1], 65536)) + eval(256 * _0x1d4960[2]), _0x4beee6[_0x3a65("90", "GX#V")](eval, _0x1d4960[3]));
-                continue;
-            case "13":
-                _0x4beee6[_0x3a65("91", "fTC8")](_0x1d4960[1], 255) && (_0x1d4960[1] = 255);
-                continue;
-            case "14":
-                _0x32c34b[3] = dec2bin(_0x1d4960[3]);
-                continue;
-            case "15":
-                255 < _0x1d4960[2] && (_0x1d4960[2] = 255);
-                continue;
-            case "16":
-                _0x4beee6.DNYDP(_0x1d4960[3], 255) && (_0x1d4960[3] = 255);
-                continue;
-            case "17":
-                var _0x32c34b = [0, 0, 0, 0];
-                continue
-            }
-            break
-        }
-    };
-    window.formatTable = function() {
-        var e = $(".mod-head")
-          , a = $(".mod-panel")
-          , t = e.find('.input-box input[name="ip"]').val();
-        a.find(".table-inner").html('<table>            <thead>                <tr>                    <th width="110">子网</th>                    <th>掩码位</th>                    <th>可用地址</th>                    <th>掩码</th>                    <th>网络</th>                    <th>第一个可用</th>                    <th>最后可用</th>                    <th>广播</th>                </tr>            </thead>            <tfoot>                <tr>                    <th width="110">网络/掩码位</th>                    <th>掩码位</th>                    <th>可用地址</th>                    <th>掩码</th>                    <th>网络</th>                    <th>第一个可用</th>                    <th>最后可用</th>                    <th>广播</th>                </tr>            </tfoot>            <tbody></tbody>        </table>'),
-        a.find(".table-fixed").html('<table>            <thead>                <tr>                    <th width="110">网络/掩码位</th>                </tr>            </thead>            <tfoot>                <tr>                    <th width="110">网络/掩码位</th>                </tr>            </tfoot>            <tbody></tbody>        </table>');
-        var n = conversion(t)
-          , o = t.split(".");
-        a.find(".table-list").html("<table>            <thead>                <tr>                    <th>iPv4地址</th>                    <th>二进制 Bin iP</th>                </tr>            </thead>            <tbody>                <tr>                    <td>" + n.dec + "</td>                    <td>" + n.bin + "</td>                </tr>            </tbody>        </table>        <table>            <thead>                <tr>                    <th>十进制 Int iP</th>                    <th>十六进制 Hex iP</th>                </tr>            </thead>            <tbody>                <tr>                    <td>" + n.long + "</td>                    <td>0x" + n.hex + "</td>                </tr>            </tbody>        </table>        <table>            <thead>                <tr>                    <th><b>兼容iPv6地址</b></th>                    <th><b>映射iPv6地址</b></th>                </tr>            </thead>            <tbody>                <tr>                    <td><span>::" + dec2hex(o[0]) + dec2hex(o[1]) + ":" + dec2hex(o[2]) + dec2hex(o[3]) + '</a></td>                    <td><a href="https://ipshudi.com/::FFFF:' + dec2hex(o[0]) + dec2hex(o[1]) + ":" + dec2hex(o[2]) + dec2hex(o[3]) + '/" target="_blank">::FFFF:' + dec2hex(o[0]) + dec2hex(o[1]) + ":" + dec2hex(o[2]) + dec2hex(o[3]) + "</span></td>                </tr>            </tbody>        </table>");
-        for (var u = a.find(".table-inner tbody"), l = a.find(".table-fixed tbody"), r = 30; 7 < r; r--) {
-            var v = calcNBFL(t, r);
-            u.append("<tr" + (16 == r || 24 == r ? ' class="blue"' : "") + ">                <td>" + v.nwadr + "/" + r + "</td>                <td>" + r + "</td>                <td>" + v.numofaddr + "</td>                <td>" + v.snm + "</td>                <td>" + v.nwadr + "</td>                <td>" + v.firstadr + "</td>                <td>" + v.lastadr + "</td>                <td>" + v.bcast + "</td>            </tr>"),
-            l.append("<tr" + (16 == r || 24 == r ? ' class="blue"' : "") + ">                <td>" + v.nwadr + "/" + r + "</td>            </tr>")
-        }
-    }
-    ,
-    window.calculate = formatTable,
-    //location.hostname.indexOf("itool.cn") < 0 ? location.href = "https://www.itool.cn/" : window.top != window.self && (window.top.location = self.location.href),
-    // ﾟωﾟﾉ = /｀ｍ´）ﾉ ~┻━┻   /._,
-    // o = ﾟｰﾟ = _ = 3,
-    // c = ﾟΘﾟ = ﾟｰﾟ - ﾟｰﾟ,
-    // ﾟДﾟ = ﾟΘﾟ = (o ^ _ ^ o) / (o ^ _ ^ o),
-    // ﾟДﾟ = {
-    //     "ﾟΘﾟ": "_",
-    //     "ﾟωﾟﾉ": ((3 == ﾟωﾟﾉ) + "_")[ﾟΘﾟ],
-    //     "ﾟｰﾟﾉ": (ﾟωﾟﾉ + "_")[o ^ _ ^ o - ﾟΘﾟ],
-    //     "ﾟДﾟﾉ": ((3 == ﾟｰﾟ) + "_")[ﾟｰﾟ]
-    // },
-    // ﾟДﾟ[ﾟΘﾟ] = ((3 == ﾟωﾟﾉ) + "_")[c ^ _ ^ o],
-    // ﾟДﾟ.c = (ﾟДﾟ + "_")[ﾟｰﾟ + ﾟｰﾟ - ﾟΘﾟ],
-    // ﾟДﾟ.o = (ﾟДﾟ + "_")[ﾟΘﾟ],
-    // ﾟoﾟ = ﾟДﾟ.c + ﾟДﾟ.o + (ﾟωﾟﾉ + "_")[ﾟΘﾟ] + ((3 == ﾟωﾟﾉ) + "_")[ﾟｰﾟ] + (ﾟДﾟ + "_")[ﾟｰﾟ + ﾟｰﾟ] + ((3 == ﾟｰﾟ) + "_")[ﾟΘﾟ] + ((3 == ﾟｰﾟ) + "_")[ﾟｰﾟ - ﾟΘﾟ] + ﾟДﾟ.c + (ﾟДﾟ + "_")[ﾟｰﾟ + ﾟｰﾟ] + ﾟДﾟ.o + ((3 == ﾟｰﾟ) + "_")[ﾟΘﾟ],
-    // ﾟДﾟ._ = (o ^ _ ^ o)[ﾟoﾟ][ﾟoﾟ],
-    // ﾟεﾟ = ((3 == ﾟｰﾟ) + "_")[ﾟΘﾟ] + ﾟДﾟ.ﾟДﾟﾉ + (ﾟДﾟ + "_")[ﾟｰﾟ + ﾟｰﾟ] + ((3 == ﾟｰﾟ) + "_")[o ^ _ ^ o - ﾟΘﾟ] + ((3 == ﾟｰﾟ) + "_")[ﾟΘﾟ] + (ﾟωﾟﾉ + "_")[ﾟΘﾟ],
-    // ﾟｰﾟ += ﾟΘﾟ,
-    // ﾟДﾟ[ﾟεﾟ] = "\\",
-    // ﾟДﾟ.ﾟΘﾟﾉ = (ﾟДﾟ + ﾟｰﾟ)[o ^ _ ^ o - ﾟΘﾟ],
-    // oﾟｰﾟo = (ﾟωﾟﾉ + "_")[c ^ _ ^ o],
-    // ﾟДﾟ[ﾟoﾟ] = '"',
-    // ﾟДﾟ._(ﾟДﾟ._(ﾟεﾟ + ﾟДﾟ[ﾟoﾟ] + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟoﾟ])(ﾟΘﾟ))("_"),
+// $(function(){
+//     debugger
+//     var _0x5a53 = ["jsjiami.com.v6", "ujsjiBLnpakXqpmnQi.com.v6zxZ==", "wpIcwoo2LQ==", "G8KfwoUEw4o=", "w43Dh8KDcXo=", "PzLDhnPDoQ==", "wpfCnwkGwrQ=", "wqglwp3DklI=", "csK5w5gAw5Y=", "wqVwwrtbw5w=", "AsKxHh7DuQ==", "bcK2BWvDjQ==", "ZMKFNGjDiQ==", "w6cZfMKSwoI=", "wrDCrcOTK8O2", "w6oXw79/bw==", "w6RDwofCpsOI", "IcOEw6pzwoszw7rDuT/ChiPDrXXDiG3Cs8KhaiLCmMOTGXbClBgYwr5Awo8lwpLDvMKhRFhEPsO9wrEvwoLCrjA=", "FjrCmG4G", "w4XCuCrCo8Ov", "CcOjcMO5wrc=", "MMKqMlRz", "XkXDlMOPBA==", "KMKuCAvDhg==", "fcO2w5HCt8KH", "R8Opw7HCi8O0", "CsKyN2dP", "w6kiVsKvwqQ=", "DSfCglYm", "ERvDg0XDtg==", "ScKiwqPDs8K5", "w7c6K8Kkwo4=", "CARjw4lS", "wpTCjz4NwoM=", "w6LClCXClsOm", "NcODLMKww4U=", "w4jClRjCt8Ol", "w5bCrMKLwrTChQ==", "C8O4AQ==", "w4rDpcOiw47Dtw==", "OsOBATfCkQ==", "w5/DocOWw4rDjg==", "wp1Iwqlvw4s=", "w63DgAxHOA==", "IwPDkkXDnw==", "AsKgwosLw64=", "G34pwoZE", "w5dQCcKKAw==", "wpwuwpA4Kg==", "JX0sw6pd", "S8KeYMOiwqs=", "wolJwqJfw6w=", "wobCnMOvN8OG", "wq0IU8KGfg==", "ETYRSgk=", "JcKLwrgKw5E=", "w5l1GMKRKg==", "w5LClEfCq8OB", "TnDDv8OWMA==", "wpXCnsK1wo/CjsK9w5TCrGbDsMKiwr4Tw7TChsKm", "cMOiw5zClsO6", "WcKhwoTDgcKK", "w7DCjMOneMKg", "w7LDjsOmw7nDrQ==", "Z8OQw4LCncOG", "w4HDq8Oow5HDjA==", "w43Ci3rCqsON", "T8KiacOiwo51", "wpA9VMK+Rw==", "wqt3OQJiESbDol8rFjkdwo7DkcKrwpPDtEbClEYUwrQtR8OTDmHCv8Ogw6MsLSYBw7EJPcORdsOQwr3Dlw==", "SVjDnsOJPA==", "w5QSw5FtZw==", "EMKvwpkiw5I=", "NhcKZBI=", "cB8CLGQ=", "fsOJw5rClQ==", "wovCp8OuKw==", "CsKuXMKCSA==", "w7w2w75cYg==", "KsO2L8KGw74=", "wonCnMOxKMOu", "acK1wqDDmsKs", "woXDnMKQR8Ot", "WsKlwr7DoMK2", "acKLRsOBwoM=", "YMKnwoXDh8KU", "ZsO8w63ChcKf", "BsKOwpccw60=", "Nm05w4xr", "wrc0wqY6NQ==", "DsKdDCjDmQ==", "wrgeTcKcUA==", "w7nCqcOCRcK7", "PcKXHm1M", "LVAGw6NQ", "woXDocKWXsOA", "E8KRMGRh", "fWxrZA0=", "dF7DnMO0KQ==", "w6hxBMKwPA==", "KlEkw4Zm", "DEAqwpF5", "W1jDlsODBQ==", "B8OLccOJwow=", "IMKzesK9Zg==", "wqM0wocoEQ==", "w4jCr8OUdcK7", "EMO1OCbCvQ==", "M8KgPADDhQ==", "wrLDucKydMOV", "woEywq81", "G8K1wqYj", "LwgPYw==", "YGTDvsOnAw==", "w5ptLsK+Cw==", "w4bDh8Omw47Du8O8", "CMKKJTXDmg==", "Ny7CvmYl", "w5DCqwbCi8Oj", "JA/DkkTDvA==", "D8OhMiPCtw==", "EsK0wok8w6Q=", "w4nDhigUHcKBw5vCsQ==", "XMKIQ8OBwqo=", "wppqwqUNw6DDiAXDkAg=", "ZsKmw48Uw5E=", "w4TCrFvCumw=", "woIZYcKedg==", "w5XCqRLCl8OT", "R8K5w68ww7A=", "F8OUUcOtwqU=", "Pl4Mwot3", "wqTDm8K8esOr", "w4VzwoTCs8OK", "RMKNbsOhwpg=", "P8OEK8K9w7M=", "w4nCimnCnE8=", "IMKGV8KOeg==", "PQ3CrX0d", "IA4xRwE=", "A3cQw7R9", "w4vCgMK1wq/CiA==", "w5tNwqzCocO8", "YsOfw73CmMOt", "JiIBSzw=", "wrk3YMKKSA==", "w4bCn8O3VcKi", "a8KFwpHDs8Ka"], a, b;
+//     a = _0x5a53,
+//     b = 372,
+//     function(e, t, n, o) {
+//         if ((t >>= 8) < e) {
+//             for (; --e; )
+//                 o = a.shift(),
+//                 t === e ? (t = o,
+//                 n = a.shift()) : n.replace(/[uBLnpkXqpnQzxZ=]/g, "") === t && a.push(o);
+//             a.push(a.shift())
+//         }
+//     }(++b, 95232);
+//     var _0x3a65 = function(e, a) {
+//         e = ~~"0x".concat(e);
+//         var t = _0x5a53[e];
+//         if (void 0 === _0x3a65.KpULQI) {
+//             !function() {
+//                 var e = "undefined" != typeof window ? window : "object" == typeof process && "function" == typeof require && "object" == typeof global ? global : this;
+//                 e.atob || (e.atob = function(e) {
+//                     for (var a, t, n = String(e).replace(/=+$/, ""), o = 0, u = 0, l = ""; t = n.charAt(u++); ~t && (a = o % 4 ? 64 * a + t : t,
+//                     o++ % 4) && (l += String.fromCharCode(255 & a >> (-2 * o & 6))))
+//                         t = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=".indexOf(t);
+//                     return l
+//                 }
+//                 )
+//             }();
+//             _0x3a65.USfptU = function(e, a) {
+//                 for (var t, n = [], o = 0, u = "", l = "", r = 0, v = (e = atob(e)).length; r < v; r++)
+//                     l += "%" + ("00" + e.charCodeAt(r).toString(16)).slice(-2);
+//                 e = decodeURIComponent(l);
+//                 for (var c = 0; c < 256; c++)
+//                     n[c] = c;
+//                 for (c = 0; c < 256; c++)
+//                     o = (o + n[c] + a.charCodeAt(c % a.length)) % 256,
+//                     t = n[c],
+//                     n[c] = n[o],
+//                     n[o] = t;
+//                 for (var i = o = c = 0; i < e.length; i++)
+//                     o = (o + n[c = (c + 1) % 256]) % 256,
+//                     t = n[c],
+//                     n[c] = n[o],
+//                     n[o] = t,
+//                     u += String.fromCharCode(e.charCodeAt(i) ^ n[(n[c] + n[o]) % 256]);
+//                 return u
+//             }
+//             ,
+//             _0x3a65.IVowYj = {},
+//             _0x3a65.KpULQI = !0
+//         }
+//         var n = _0x3a65.IVowYj[e];
+//         return void 0 === n ? (void 0 === _0x3a65.zznDXa && (_0x3a65.zznDXa = !0),
+//         t = _0x3a65.USfptU(t, a),
+//         _0x3a65.IVowYj[e] = t) : t = n,
+//         t
+//     }
+//       , h_fillbitsfromleft = function(e) {
+//         var a = {
+//             hgsrT: function(e, a) {
+//                 return e >> a
+//             },
+//             ReHUv: function(e, a) {
+//                 return a <= e
+//             },
+//             EANQL: function(e, a) {
+//                 return e !== a
+//             },
+//             DjxjB: "vxivV",
+//             zrgqL: _0x3a65("0", "L%Iy"),
+//             xDvDH: function(e, a) {
+//                 return a < e
+//             },
+//             wTXQS: function(e, a) {
+//                 return e === a
+//             },
+//             blJPB: function(e, a) {
+//                 return e & a
+//             }
+//         };
+//         if (a[_0x3a65("1", "fTC8")](e, 8)) {
+//             if (a[_0x3a65("2", "B1v%")](a.DjxjB, a.zrgqL))
+//                 return 255;
+//             bitpat = a[_0x3a65("3", "fTC8")](bitpat, 1),
+//             e--
+//         }
+//         for (bitpat = 65280; a[_0x3a65("4", "[]WR")](e, 0); )
+//             a[_0x3a65("5", ")g[%")](_0x3a65("6", "!E(A"), _0x3a65("7", "UuYy")) ? (bitpat = a[_0x3a65("8", "^Vfe")](bitpat, 1),
+//             e--) : bit7 = 1;
+//         return a[_0x3a65("9", "34P2")](bitpat, 255)
+//     }
+//       , calcNWmask = function(_0x485032, _0x19b66d) {
+//         var _0x24c6fd = {
+//             FmdBu: function(e, a) {
+//                 return a < e
+//             },
+//             uMhob: function(e, a) {
+//                 return a < e
+//             },
+//             zidQV: function(e, a) {
+//                 return a < e
+//             },
+//             apdcM: function(e, a) {
+//                 return e(a)
+//             },
+//             kbNBy: function(e, a) {
+//                 return e(a)
+//             },
+//             sEAZh: function(e, a) {
+//                 return e + a
+//             },
+//             HiAsK: function(e, a) {
+//                 return e + a
+//             },
+//             muDfC: function(e, a) {
+//                 return e + a
+//             },
+//             UZCZH: function(e, a) {
+//                 return e * a
+//             },
+//             CKCbw: function(e, a) {
+//                 return e * a
+//             },
+//             EAxwR: function(e, a) {
+//                 return e(a)
+//             },
+//             JlEsV: function(e, a) {
+//                 return e === a
+//             },
+//             ZhfoM: _0x3a65("a", "0q7c"),
+//             NvnTa: _0x3a65("b", "C3a8"),
+//             ZLLGK: function(e, a) {
+//                 return e !== a
+//             },
+//             HrHWx: _0x3a65("c", "!E(A"),
+//             npZoW: function(e, a) {
+//                 return a <= e
+//             },
+//             RdJaW: function(e, a) {
+//                 return e(a)
+//             },
+//             aIuXD: function(e, a) {
+//                 return a <= e
+//             },
+//             tvDGs: _0x3a65("d", "L%Iy"),
+//             cnFqZ: function(e, a) {
+//                 return e(a)
+//             }
+//         };
+//         if (32 < _0x19b66d || _0x19b66d < 0) {
+//             if (_0x24c6fd[_0x3a65("e", "jQm!")](_0x24c6fd[_0x3a65("f", "7%Ld")], _0x24c6fd[_0x3a65("10", "!fk[")])) {
+//                 var _0x4479b4 = _0x485032[_0x3a65("11", "G[6G")](".")
+//                   , _0x2c02e2 = [0, 0, 0, 0]
+//                   , _0x406859 = [0, 0, 0, 0]
+//                   , _0x4e3efd = 0;
+//                 return 255 < _0x4479b4[0] && (_0x4479b4[0] = 255),
+//                 _0x24c6fd[_0x3a65("12", "!E(A")](_0x4479b4[1], 255) && (_0x4479b4[1] = 255),
+//                 _0x24c6fd.uMhob(_0x4479b4[2], 255) && (_0x4479b4[2] = 255),
+//                 _0x24c6fd[_0x3a65("13", "&V*i")](_0x4479b4[3], 255) && (_0x4479b4[3] = 255),
+//                 _0x2c02e2[0] = _0x24c6fd.apdcM(dec2bin, _0x4479b4[0]),
+//                 _0x2c02e2[1] = _0x24c6fd[_0x3a65("14", "!fk[")](dec2bin, _0x4479b4[1]),
+//                 _0x2c02e2[2] = _0x24c6fd[_0x3a65("15", "o1$0")](dec2bin, _0x4479b4[2]),
+//                 _0x2c02e2[3] = _0x24c6fd.apdcM(dec2bin, _0x4479b4[3]),
+//                 _0x406859[0] = _0x24c6fd.kbNBy(dec2hex, _0x4479b4[0]),
+//                 _0x406859[1] = dec2hex(_0x4479b4[1]),
+//                 _0x406859[2] = dec2hex(_0x4479b4[2]),
+//                 _0x406859[3] = dec2hex(_0x4479b4[3]),
+//                 _0x4e3efd = _0x24c6fd[_0x3a65("16", "6p0j")](_0x24c6fd[_0x3a65("17", "vw96")](_0x24c6fd[_0x3a65("18", "6Dx%")](eval(16777216 * _0x4479b4[0]), _0x24c6fd[_0x3a65("19", "FUs7")](eval, _0x24c6fd[_0x3a65("1a", "^Vfe")](_0x4479b4[1], 65536))), eval(_0x24c6fd[_0x3a65("1b", "L%Iy")](_0x4479b4[2], 256))), _0x24c6fd.EAxwR(eval, _0x4479b4[3])),
+//                 {
+//                     dec: _0x4479b4[_0x3a65("1c", "vw96")]("."),
+//                     bin: _0x2c02e2[_0x3a65("1d", ")g[%")](""),
+//                     hex: _0x406859[_0x3a65("1e", "oQK^")](""),
+//                     long: _0x4e3efd
+//                 }
+//             }
+//             return !1
+//         }
+//         var _0x1ed06f = 0
+//           , _0x5a00a3 = 0
+//           , _0x2b169c = 0
+//           , _0xd8e1e6 = 0;
+//         return 8 <= _0x19b66d ? (_0x24c6fd[_0x3a65("1f", "!fk[")](_0x3a65("20", "G[6G"), _0x24c6fd.HrHWx) ? (k = 15 & j,
+//         hv = hexchars[_0x3a65("21", "tCK1")](k) + hv,
+//         j >>= 4) : (_0x1ed06f = 255,
+//         _0x19b66d -= 8),
+//         _0x24c6fd[_0x3a65("22", "^Vfe")](_0x19b66d, 8) ? (_0x5a00a3 = 255,
+//         _0x19b66d -= 8,
+//         _0x24c6fd[_0x3a65("24", "ZdTG")](_0x19b66d, 8) ? (_0x24c6fd[_0x3a65("25", "CU%v")] !== _0x24c6fd[_0x3a65("26", "FUs7")] ? bit6 = 1 : (_0x2b169c = 255,
+//         _0x19b66d -= 8),
+//         _0xd8e1e6 = h_fillbitsfromleft(_0x19b66d)) : _0x2b169c = _0x24c6fd[_0x3a65("27", ")g[%")](h_fillbitsfromleft, _0x19b66d),
+//         [_0x1ed06f, _0x5a00a3, _0x2b169c, _0xd8e1e6]) : (_0x5a00a3 = _0x24c6fd[_0x3a65("23", "xMRW")](h_fillbitsfromleft, _0x19b66d),
+//         [_0x1ed06f, _0x5a00a3, _0x2b169c, _0xd8e1e6])) : (_0x1ed06f = h_fillbitsfromleft(_0x19b66d),
+//         [_0x1ed06f, _0x5a00a3, _0x2b169c, _0xd8e1e6])
+//     }
+//       , calcNBFL = function(e, a) {
+//         var t = {
+//             dKaDt: _0x3a65("28", "FPT!"),
+//             WIyrL: function(e, a) {
+//                 return e + a
+//             },
+//             qoDGd: function(e, a) {
+//                 return e + a
+//             },
+//             HwBKX: function(e, a) {
+//                 return e + a
+//             },
+//             UiMlI: function(e, a) {
+//                 return e + a
+//             },
+//             hGfqW: function(e, a) {
+//                 return e + a
+//             },
+//             HZBaT: function(e, a, t) {
+//                 return e(a, t)
+//             },
+//             vVYVm: function(e, a) {
+//                 return a < e
+//             },
+//             FKCPw: function(e, a) {
+//                 return e === a
+//             },
+//             OXKXw: "ZxbvZ",
+//             XkfRd: _0x3a65("29", "B1v%"),
+//             KmqvT: function(e, a) {
+//                 return e == a
+//             },
+//             sBAKu: "0|2|1|4|3|6|8|9|7|5",
+//             XGYzo: _0x3a65("2a", "4UVO"),
+//             eiWJg: function(e, a) {
+//                 return e & a
+//             },
+//             oKPpn: function(e, a) {
+//                 return e & a
+//             },
+//             vyNca: function(e, a) {
+//                 return e + a
+//             },
+//             cEgFZ: function(e, a) {
+//                 return e + a
+//             },
+//             yALmw: function(e, a) {
+//                 return e + a
+//             },
+//             jEJIt: function(e, a) {
+//                 return e + a
+//             },
+//             NLrqS: function(e, a) {
+//                 return e + a
+//             },
+//             PfaNv: function(e, a) {
+//                 return e & a
+//             },
+//             PBSiZ: function(e, a) {
+//                 return e | a
+//             },
+//             bINBj: function(e, a) {
+//                 return e & a
+//             },
+//             argSO: function(e, a) {
+//                 return e + a
+//             },
+//             hAVPK: function(e, a) {
+//                 return e + a
+//             },
+//             QeTnT: function(e, a) {
+//                 return e + a
+//             },
+//             urvEY: function(e, a) {
+//                 return e + a
+//             },
+//             TyNiR: function(e, a) {
+//                 return e + a
+//             },
+//             AcBcl: function(e, a) {
+//                 return e !== a
+//             },
+//             KRXNN: function(e, a) {
+//                 return e(a)
+//             },
+//             tZYpH: function(e, a) {
+//                 return e | a
+//             },
+//             oXeSv: function(e, a) {
+//                 return e & a
+//             },
+//             GwiUX: function(e, a) {
+//                 return e & a
+//             },
+//             WVJjL: function(e, a) {
+//                 return e & a
+//             },
+//             dmfoL: function(e, a) {
+//                 return e & a
+//             },
+//             NTwQK: function(e, a) {
+//                 return e & a
+//             },
+//             cNJvP: function(e, a) {
+//                 return e + a
+//             },
+//             cbarp: function(e, a) {
+//                 return e + a
+//             },
+//             SOBpx: function(e, a) {
+//                 return e + a
+//             },
+//             hmvQT: function(e, a) {
+//                 return e + a
+//             },
+//             AbUFy: function(e, a) {
+//                 return e + a
+//             },
+//             ZSOFK: function(e, a) {
+//                 return e + a
+//             },
+//             aoePR: function(e, a) {
+//                 return e + a
+//             },
+//             AKkmZ: function(e, a) {
+//                 return e + a
+//             },
+//             SvVEA: function(e, a) {
+//                 return e + a
+//             },
+//             ywkdB: function(e, a) {
+//                 return e + a
+//             },
+//             ukXjZ: function(e, a) {
+//                 return e + a
+//             },
+//             EZlbO: function(e, a) {
+//                 return e - a
+//             },
+//             oJerM: function(e, a) {
+//                 return e & a
+//             },
+//             AVwSU: function(e, a) {
+//                 return e & a
+//             }
+//         }
+//           , n = t.HZBaT(calcNWmask, e, a)
+//           , o = n[0]
+//           , u = n[1]
+//           , l = n[2]
+//           , r = n[3];
+//         if (t[_0x3a65("2b", "[TS3")](a, 32) || a < 0)
+//             return !!t[_0x3a65("2c", ")AQX")](t.OXKXw, t[_0x3a65("2d", "34P2")]) && (d = c,
+//             f = i,
+//             m = _,
+//             b = s,
+//             {
+//                 numofaddr: v = t[_0x3a65("2e", "ZdTG")],
+//                 snm: t[_0x3a65("2f", "[TS3")](t[_0x3a65("30", "o1$0")](o + "." + u + "." + l, "."), r),
+//                 firstadr: t[_0x3a65("31", "&V*i")](t.HwBKX(t[_0x3a65("32", "L%Iy")](t[_0x3a65("33", "Clii")](t[_0x3a65("34", "B1v%")](d, ".") + f, "."), m), "."), b),
+//                 lastadr: "",
+//                 bcast: "",
+//                 nwadr: ""
+//             });
+//         var v = ""
+//           , c = (n = e[_0x3a65("35", "dPKj")]("."))[0]
+//           , i = n[1]
+//           , _ = n[2]
+//           , s = n[3]
+//           , d = ""
+//           , f = ""
+//           , m = ""
+//           , b = ""
+//           , w = ""
+//           , p = ""
+//           , x = ""
+//           , h = ""
+//           , g = ""
+//           , K = ""
+//           , N = ""
+//           , C = ""
+//           , O = ""
+//           , A = ""
+//           , D = ""
+//           , j = "";
+//           debugger
+//         if (t[_0x3a65("36", ")AQX")](a, 31))
+//             for (var S = t.sBAKu[_0x3a65("37", "6p0j")]("|"), I = 0; ; ) {
+//                 switch (S[I++]) {
+//                 case "0":
+//                     v = t[_0x3a65("38", "xMRW")];
+//                     continue;
+//                 case "1":
+//                     f = t[_0x3a65("39", "oQK^")](i, u);
+//                     continue;
+//                 case "2":
+//                     d = t.oKPpn(c, o);
+//                     continue;
+//                 case "3":
+//                     b = t[_0x3a65("3a", "!E(A")](s, r);
+//                     continue;
+//                 case "4":
+//                     m = t.oKPpn(_, l);
+//                     continue;
+//                 case "5":
+//                     return {
+//                         numofaddr: v,
+//                         snm: t[_0x3a65("3b", "*9XU")](t[_0x3a65("3c", "Clii")](t[_0x3a65("3d", "xuK3")](t[_0x3a65("3e", "oQK^")](t.cEgFZ(o + ".", u), "."), l), "."), r),
+//                         firstadr: t[_0x3a65("3f", "34P2")](t[_0x3a65("40", "6Dx%")](t[_0x3a65("41", "fTC8")](t[_0x3a65("42", "vw96")](d + ".", f), "."), m), ".") + b,
+//                         lastadr: t[_0x3a65("43", ")g[%")](t.NLrqS(t[_0x3a65("44", "8SMa")](w, "."), p) + "." + x + ".", h),
+//                         bcast: "",
+//                         nwadr: ""
+//                     };
+//                 case "6":
+//                     w = c | t[_0x3a65("45", "CU%v")](~o, 255);
+//                     continue;
+//                 case "7":
+//                     h = s | t[_0x3a65("46", "(Isi")](~r, 255);
+//                     continue;
+//                 case "8":
+//                     p = t[_0x3a65("47", "YiWD")](i, t.bINBj(~u, 255));
+//                     continue;
+//                 case "9":
+//                     x = _ | t[_0x3a65("48", "[TS3")](~l, 255);
+//                     continue
+//                 }
+//                 break
+//             }
+//         else {
+//             if (t[_0x3a65("49", "4UVO")](a, 32))
+//                 return d = c,
+//                 f = i,
+//                 m = _,
+//                 b = s,
+//                 {
+//                     numofaddr: v = t[_0x3a65("4a", "^Vfe")],
+//                     snm: t[_0x3a65("4b", "C2$b")](t.argSO(t.argSO(t[_0x3a65("4c", "C2$b")](t[_0x3a65("4d", "@sUS")](o, "."), u) + ".", l), "."), r),
+//                     firstadr: t.QeTnT(t.QeTnT(t[_0x3a65("4e", "GX#V")](t[_0x3a65("4f", "weGO")](t.TyNiR(d + ".", f), "."), m), "."), b),
+//                     lastadr: "",
+//                     bcast: "",
+//                     nwadr: ""
+//                 };
+//             if (t.AcBcl("IwedU", _0x3a65("50", "Clii")))
+//                 bit1 = 1;
+//             else
+//                 for (var M = _0x3a65("51", "[TS3")[_0x3a65("52", "xMRW")]("|"), k = 0; ; ) {
+//                     switch (M[k++]) {
+//                     case "0":
+//                         h = t.KRXNN(parseInt, C) - 1;
+//                         continue;
+//                     case "1":
+//                         x = N;
+//                         continue;
+//                     case "2":
+//                         m = D;
+//                         continue;
+//                     case "3":
+//                         d = O;
+//                         continue;
+//                     case "4":
+//                         w = g;
+//                         continue;
+//                     case "5":
+//                         N = t[_0x3a65("53", "ZdTG")](_, t[_0x3a65("54", "o1$0")](~l, 255));
+//                         continue;
+//                     case "6":
+//                         b = t.TyNiR(t.KRXNN(parseInt, j), 1);
+//                         continue;
+//                     case "7":
+//                         j = t[_0x3a65("55", "C3a8")](s, r);
+//                         continue;
+//                     case "8":
+//                         A = t.WVJjL(i, u);
+//                         continue;
+//                     case "9":
+//                         K = i | t[_0x3a65("56", "!fk[")](~u, 255);
+//                         continue;
+//                     case "10":
+//                         D = t[_0x3a65("57", "^Vfe")](_, l);
+//                         continue;
+//                     case "11":
+//                         f = A;
+//                         continue;
+//                     case "12":
+//                         p = K;
+//                         continue;
+//                     case "13":
+//                         return {
+//                             numofaddr: v,
+//                             snm: t[_0x3a65("58", "[]WR")](t.cNJvP(t.cbarp(t.SOBpx(t[_0x3a65("59", "xuK3")](t[_0x3a65("5a", "jQm!")](o, "."), u), "."), l), "."), r),
+//                             firstadr: t.SOBpx(t[_0x3a65("5b", "XCnx")](t[_0x3a65("5c", "xMRW")](d, ".") + f + ".", m), ".") + b,
+//                             lastadr: t[_0x3a65("5d", "CU%v")](t[_0x3a65("5e", "fTC8")](t.AbUFy(t.ZSOFK(w + ".", p), "."), x), ".") + h,
+//                             bcast: t[_0x3a65("5f", "!I)F")](t[_0x3a65("60", "(GZl")](t[_0x3a65("61", "(Isi")](t[_0x3a65("62", "ZdTG")](t.SvVEA(t[_0x3a65("63", "dPKj")](g, "."), K), "."), N), "."), C),
+//                             nwadr: t[_0x3a65("64", "ZdTG")](t[_0x3a65("65", "*9XU")](t.ukXjZ(O + "." + A, "."), D), ".") + j
+//                         };
+//                     case "14":
+//                         v = Math[_0x3a65("66", "FUs7")](2, t.EZlbO(32, a)) - 2;
+//                         continue;
+//                     case "15":
+//                         C = s | t[_0x3a65("67", "tCK1")](~r, 255);
+//                         continue;
+//                     case "16":
+//                         O = t[_0x3a65("68", "FUs7")](c, o);
+//                         continue;
+//                     case "17":
+//                         g = c | 255 & ~o;
+//                         continue
+//                     }
+//                     break
+//                 }
+//         }
+//     }
+//       , dec2bin = function(e) {
+//         var a = {
+//             LQaSK: function(e, a) {
+//                 return a <= e
+//             },
+//             qKOJg: function(e, a) {
+//                 return a < e
+//             },
+//             IAlnN: function(e, a) {
+//                 return e & a
+//             },
+//             sUcBC: function(e, a) {
+//                 return e & a
+//             },
+//             KhAsM: function(e, a) {
+//                 return e !== a
+//             },
+//             gThrd: function(e, a) {
+//                 return e & a
+//             },
+//             lCLkf: "mWgFk",
+//             PLKfj: function(e, a) {
+//                 return e & a
+//             },
+//             wzTJl: function(e, a) {
+//                 return e !== a
+//             },
+//             TQwGo: _0x3a65("69", "tCK1"),
+//             BtpHb: function(e, a) {
+//                 return e + a
+//             },
+//             tXMvx: function(e, a) {
+//                 return e + a
+//             }
+//         }
+//           , t = 0
+//           , n = 0
+//           , o = 0
+//           , u = 0
+//           , l = 0
+//           , r = 0
+//           , v = 0
+//           , c = 0;
+//         if (a.sUcBC(e, 128) && (t = 1),
+//         64 & e && (n = 1),
+//         a[_0x3a65("6a", "4UVO")](e, 32) && (a[_0x3a65("6b", "FPT!")](_0x3a65("6c", "CU%v"), _0x3a65("6d", ")g[%")) ? (snm_1 = 255,
+//         bits -= 8) : o = 1),
+//         a.gThrd(e, 16)) {
+//             if (a.lCLkf !== _0x3a65("6e", "&V*i")) {
+//                 if (a[_0x3a65("6f", "G[6G")](num, 8))
+//                     return 255;
+//                 for (bitpat = 65280; a[_0x3a65("70", "UuYy")](num, 0); )
+//                     bitpat >>= 1,
+//                     num--;
+//                 return a[_0x3a65("71", "!E(A")](bitpat, 255)
+//             }
+//             u = 1
+//         }
+//         return a[_0x3a65("72", "B1v%")](e, 8) && (l = 1),
+//         a[_0x3a65("73", "4UVO")](e, 4) && (r = 1),
+//         a[_0x3a65("74", "GX#V")](e, 2) && (v = 1),
+//         a.PLKfj(e, 1) && (a[_0x3a65("75", "34P2")](a[_0x3a65("76", "oQK^")], a[_0x3a65("77", ")g[%")]) ? r = 1 : c = 1),
+//         a[_0x3a65("78", "G[6G")](a[_0x3a65("79", "^7#P")](a[_0x3a65("7a", "!fk[")]("", t) + n + o, u) + l + r, v) + c
+//     }
+//       , dec2hex = function(e) {
+//         for (var a = {
+//             QartJ: _0x3a65("7b", "tCK1"),
+//             GKOLq: function(e, a) {
+//                 return e < a
+//             },
+//             WaaEW: function(e, a) {
+//                 return e === a
+//             },
+//             svqfJ: _0x3a65("7c", "xuK3"),
+//             kGpwt: function(e, a) {
+//                 return e & a
+//             },
+//             JOSrU: function(e, a) {
+//                 return e >> a
+//             }
+//         }, t = e, n = a[_0x3a65("7d", "fTC8")], o = "", u = 0; a[_0x3a65("7e", "0q7c")](u, 2); u++) {
+//             if (!a[_0x3a65("7f", "tCK1")](a[_0x3a65("80", "xuK3")], _0x3a65("81", "tCK1")))
+//                 return !1;
+//             k = a[_0x3a65("82", "^7#P")](t, 15),
+//             o = n[_0x3a65("83", "B1v%")](k) + o,
+//             t = a[_0x3a65("84", "34P2")](t, 4)
+//         }
+//         return o
+//     }
+//       , conversion = function(_0x58c2f2) {
+//         for (var _0x4beee6 = {
+//             KwXWQ: function(e, a) {
+//                 return e(a)
+//             },
+//             auVol: function(e, a) {
+//                 return a < e
+//             },
+//             YXgeF: function(e, a) {
+//                 return e(a)
+//             },
+//             HEiDw: function(e, a) {
+//                 return e + a
+//             },
+//             cSwfT: function(e, a) {
+//                 return e(a)
+//             },
+//             fBhRy: function(e, a) {
+//                 return e * a
+//             },
+//             hTvmL: function(e, a) {
+//                 return e(a)
+//             },
+//             DNYDP: function(e, a) {
+//                 return a < e
+//             }
+//         }, _0x30a39e = _0x3a65("85", "nB[S")[_0x3a65("86", "!fk[")]("|"), _0x6fa47 = 0; ; ) {
+//             switch (_0x30a39e[_0x6fa47++]) {
+//             case "0":
+//                 _0x32c34b[1] = dec2bin(_0x1d4960[1]);
+//                 continue;
+//             case "1":
+//                 _0x248626[3] = _0x4beee6[_0x3a65("87", "weGO")](dec2hex, _0x1d4960[3]);
+//                 continue;
+//             case "2":
+//                 var _0x33071d = 0;
+//                 continue;
+//             case "3":
+//                 _0x248626[0] = dec2hex(_0x1d4960[0]);
+//                 continue;
+//             case "4":
+//                 _0x4beee6[_0x3a65("88", ")g[%")](_0x1d4960[0], 255) && (_0x1d4960[0] = 255);
+//                 continue;
+//             case "5":
+//                 var _0x1d4960 = _0x58c2f2[_0x3a65("89", "oQK^")](".");
+//                 continue;
+//             case "6":
+//                 var _0x248626 = [0, 0, 0, 0];
+//                 continue;
+//             case "7":
+//                 _0x248626[2] = _0x4beee6[_0x3a65("8a", "!SxZ")](dec2hex, _0x1d4960[2]);
+//                 continue;
+//             case "8":
+//                 return {
+//                     dec: _0x1d4960[_0x3a65("8b", "xuK3")]("."),
+//                     bin: _0x32c34b[_0x3a65("8c", "GX#V")](""),
+//                     hex: _0x248626.join(""),
+//                     long: _0x33071d
+//                 };
+//             case "9":
+//                 _0x32c34b[0] = dec2bin(_0x1d4960[0]);
+//                 continue;
+//             case "10":
+//                 _0x32c34b[2] = dec2bin(_0x1d4960[2]);
+//                 continue;
+//             case "11":
+//                 _0x248626[1] = _0x4beee6[_0x3a65("8d", "6p0j")](dec2hex, _0x1d4960[1]);
+//                 continue;
+//             case "12":
+//                 _0x33071d = _0x4beee6.HEiDw(eval(16777216 * _0x1d4960[0]) + _0x4beee6[_0x3a65("8e", "weGO")](eval, _0x4beee6[_0x3a65("8f", "dPKj")](_0x1d4960[1], 65536)) + eval(256 * _0x1d4960[2]), _0x4beee6[_0x3a65("90", "GX#V")](eval, _0x1d4960[3]));
+//                 continue;
+//             case "13":
+//                 _0x4beee6[_0x3a65("91", "fTC8")](_0x1d4960[1], 255) && (_0x1d4960[1] = 255);
+//                 continue;
+//             case "14":
+//                 _0x32c34b[3] = dec2bin(_0x1d4960[3]);
+//                 continue;
+//             case "15":
+//                 255 < _0x1d4960[2] && (_0x1d4960[2] = 255);
+//                 continue;
+//             case "16":
+//                 _0x4beee6.DNYDP(_0x1d4960[3], 255) && (_0x1d4960[3] = 255);
+//                 continue;
+//             case "17":
+//                 var _0x32c34b = [0, 0, 0, 0];
+//                 continue
+//             }
+//             break
+//         }
+//     };
+//     window.formatTable = function() {
+//         var e = $(".mod-head")
+//           , a = $(".mod-panel")
+//           , t = e.find('.input-box input[name="ip"]').val();
+//         a.find(".table-inner").html('<table>            <thead>                <tr>                    <th width="110">子网</th>                    <th>掩码位</th>                    <th>可用地址</th>                    <th>掩码</th>                    <th>网络</th>                    <th>第一个可用</th>                    <th>最后可用</th>                    <th>广播</th>                </tr>            </thead>            <tfoot>                <tr>                    <th width="110">网络/掩码位</th>                    <th>掩码位</th>                    <th>可用地址</th>                    <th>掩码</th>                    <th>网络</th>                    <th>第一个可用</th>                    <th>最后可用</th>                    <th>广播</th>                </tr>            </tfoot>            <tbody></tbody>        </table>'),
+//         a.find(".table-fixed").html('<table>            <thead>                <tr>                    <th width="110">网络/掩码位</th>                </tr>            </thead>            <tfoot>                <tr>                    <th width="110">网络/掩码位</th>                </tr>            </tfoot>            <tbody></tbody>        </table>');
+//         var n = conversion(t)
+//           , o = t.split(".");
+//         a.find(".table-list").html("<table>            <thead>                <tr>                    <th>iPv4地址</th>                    <th>二进制 Bin iP</th>                </tr>            </thead>            <tbody>                <tr>                    <td>" + n.dec + "</td>                    <td>" + n.bin + "</td>                </tr>            </tbody>        </table>        <table>            <thead>                <tr>                    <th>十进制 Int iP</th>                    <th>十六进制 Hex iP</th>                </tr>            </thead>            <tbody>                <tr>                    <td>" + n.long + "</td>                    <td>0x" + n.hex + "</td>                </tr>            </tbody>        </table>        <table>            <thead>                <tr>                    <th><b>兼容iPv6地址</b></th>                    <th><b>映射iPv6地址</b></th>                </tr>            </thead>            <tbody>                <tr>                    <td><span>::" + dec2hex(o[0]) + dec2hex(o[1]) + ":" + dec2hex(o[2]) + dec2hex(o[3]) + '</a></td>                    <td><a href="https://ipshudi.com/::FFFF:' + dec2hex(o[0]) + dec2hex(o[1]) + ":" + dec2hex(o[2]) + dec2hex(o[3]) + '/" target="_blank">::FFFF:' + dec2hex(o[0]) + dec2hex(o[1]) + ":" + dec2hex(o[2]) + dec2hex(o[3]) + "</span></td>                </tr>            </tbody>        </table>");
+//         for (var u = a.find(".table-inner tbody"), l = a.find(".table-fixed tbody"), r = 30; 7 < r; r--) {
+//             var v = calcNBFL(t, r);
+//             u.append("<tr" + (16 == r || 24 == r ? ' class="blue"' : "") + ">                <td>" + v.nwadr + "/" + r + "</td>                <td>" + r + "</td>                <td>" + v.numofaddr + "</td>                <td>" + v.snm + "</td>                <td>" + v.nwadr + "</td>                <td>" + v.firstadr + "</td>                <td>" + v.lastadr + "</td>                <td>" + v.bcast + "</td>            </tr>"),
+//             l.append("<tr" + (16 == r || 24 == r ? ' class="blue"' : "") + ">                <td>" + v.nwadr + "/" + r + "</td>            </tr>")
+//         }
+//     }
+//     ,
+//     window.calculate = formatTable,
+//     //location.hostname.indexOf("itool.cn") < 0 ? location.href = "https://www.itool.cn/" : window.top != window.self && (window.top.location = self.location.href),
+//     // ﾟωﾟﾉ = /｀ｍ´）ﾉ ~┻━┻   /._,
+//     // o = ﾟｰﾟ = _ = 3,
+//     // c = ﾟΘﾟ = ﾟｰﾟ - ﾟｰﾟ,
+//     // ﾟДﾟ = ﾟΘﾟ = (o ^ _ ^ o) / (o ^ _ ^ o),
+//     // ﾟДﾟ = {
+//     //     "ﾟΘﾟ": "_",
+//     //     "ﾟωﾟﾉ": ((3 == ﾟωﾟﾉ) + "_")[ﾟΘﾟ],
+//     //     "ﾟｰﾟﾉ": (ﾟωﾟﾉ + "_")[o ^ _ ^ o - ﾟΘﾟ],
+//     //     "ﾟДﾟﾉ": ((3 == ﾟｰﾟ) + "_")[ﾟｰﾟ]
+//     // },
+//     // ﾟДﾟ[ﾟΘﾟ] = ((3 == ﾟωﾟﾉ) + "_")[c ^ _ ^ o],
+//     // ﾟДﾟ.c = (ﾟДﾟ + "_")[ﾟｰﾟ + ﾟｰﾟ - ﾟΘﾟ],
+//     // ﾟДﾟ.o = (ﾟДﾟ + "_")[ﾟΘﾟ],
+//     // ﾟoﾟ = ﾟДﾟ.c + ﾟДﾟ.o + (ﾟωﾟﾉ + "_")[ﾟΘﾟ] + ((3 == ﾟωﾟﾉ) + "_")[ﾟｰﾟ] + (ﾟДﾟ + "_")[ﾟｰﾟ + ﾟｰﾟ] + ((3 == ﾟｰﾟ) + "_")[ﾟΘﾟ] + ((3 == ﾟｰﾟ) + "_")[ﾟｰﾟ - ﾟΘﾟ] + ﾟДﾟ.c + (ﾟДﾟ + "_")[ﾟｰﾟ + ﾟｰﾟ] + ﾟДﾟ.o + ((3 == ﾟｰﾟ) + "_")[ﾟΘﾟ],
+//     // ﾟДﾟ._ = (o ^ _ ^ o)[ﾟoﾟ][ﾟoﾟ],
+//     // ﾟεﾟ = ((3 == ﾟｰﾟ) + "_")[ﾟΘﾟ] + ﾟДﾟ.ﾟДﾟﾉ + (ﾟДﾟ + "_")[ﾟｰﾟ + ﾟｰﾟ] + ((3 == ﾟｰﾟ) + "_")[o ^ _ ^ o - ﾟΘﾟ] + ((3 == ﾟｰﾟ) + "_")[ﾟΘﾟ] + (ﾟωﾟﾉ + "_")[ﾟΘﾟ],
+//     // ﾟｰﾟ += ﾟΘﾟ,
+//     // ﾟДﾟ[ﾟεﾟ] = "\\",
+//     // ﾟДﾟ.ﾟΘﾟﾉ = (ﾟДﾟ + ﾟｰﾟ)[o ^ _ ^ o - ﾟΘﾟ],
+//     // oﾟｰﾟo = (ﾟωﾟﾉ + "_")[c ^ _ ^ o],
+//     // ﾟДﾟ[ﾟoﾟ] = '"',
+//     // ﾟДﾟ._(ﾟДﾟ._(ﾟεﾟ + ﾟДﾟ[ﾟoﾟ] + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟoﾟ])(ﾟΘﾟ))("_"),
     
     
-    function() {
-        var e = $(".mod-head")
-          , n = e.find('.input-box input[name="ip"]')
-          , a = e.find(".input-box button.btn-search")
-          , t = (e.find(".input-box button.btn-visit"),
-        /^((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}$/)
-          , o = /^([a-zA-Z0-9][-a-zA-Z0-9]{0,62}\.)([a-zA-Z0-9\-]{1,63}\.)*([a-zA-Z]{1,63})$/;
-        if (n.on("paste", function() {
-            setTimeout(function() {
-                !function() {
-                    var e = $.trim(n.val()).replace(/[\r\n]/g, "")
-                      , a = e
-                      , t = e.match(/((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}/);
-                    t && (e = t[0]),
-                    (t = e.match(/([a-zA-Z0-9][-a-zA-Z0-9]{0,62}\.)([a-zA-Z0-9\-]{1,63}\.)*([a-zA-Z]{1,63})/)) && (e = t[0]),
-                    (e = e.replace(/[^a-zA-Z0-9\-\.]/g, "")) != a && n.val(e)
-                }()
-            }, 0)
-        }),
-        location.hash) {
-            var u = location.hash.substr(1)
-              , l = u.match(/((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}/);
-            l && (u = l[0]),
-            u.match(t) && (n.val(u),
-            calculate())
-        }
-        function r() {
-            var e = $.trim(n.val());
-            return "" == e ? alert("请输入您要查询的iP地址！") : e.match(o) ? window.open("https://ipchaxun.com/" + e + "/") : e.match(t) ? (location.hash = e,
-            calculate()) : alert("iP格式错误！"),
-            !1
-        }
-        n.on("keydown", function(e) {
-            (e = e || window.event) && 13 == e.keyCode && r()
-        }),
-        a.on("click", r)
-    }(),
-    function() {
-        var e = $(".mod-head")
-          , a = e.find('input[name="ip"]');
-        e.find(".input-box").append('<a href="javascript:;" class="clear"><span>X</span></a>');
-        function t() {
-            $.trim(a.val()) ? o.show() : o.hide(),
-            o.css({
-                right: n.width() * n.length + 10,
-                top: (n.height() - 32) / 2
-            })
-        }
-        var n = e.find("button")
-          , o = e.find(".clear");
-        "oninput"in document.createElement("input") ? a.on("input", t) : a.on("propertychange", t),
-        o.on("click", function() {
-            a.val(""),
-            o.hide(),
-            a.focus()
-        }),
-        t()
-    }(),
-    $("#copy").on("click", function() {
-        var e = $("input[name*=ip_]")
-          , a = $("input[name=bits]");
-        !function(e, a) {
-            a = a || function() {}
-            ,
-            window.getSelection().removeAllRanges();
-            var t = window.getSelection()
-              , n = document.createElement("div");
-            n.style.position = "absolute",
-            n.style.left = "-99999px",
-            document.body.appendChild(n),
-            n.innerHTML = e,
-            t.selectAllChildren(n),
-            document.execCommand("Copy"),
-            window.setTimeout(function() {
-                document.body.removeChild(n),
-                a()
-            }, 100)
-        }($.map(e, function(e) {
-            return $(e).val()
-        }).join(".") + "/" + a.val(), function() {
-            alert("已复制到剪切板！")
-        })
-    }),
-    function() {
-        // if (document.getElementsByClassName("mod-news").length) {
-        //     var o = document.getElementsByClassName("mod-news")[0]
-        //       , e = 0
-        //       , a = function() {
-        //         $.ajax({
-        //             url: "https://www.luyouqi.com/api/list/new/",
-        //             method: "get",
-        //             dataType: "jsonp",
-        //             jsonpCallback: "jsonpCallback",
-        //             success: function(e) {
-        //                 var a = [];
-        //                 if (e.status)
-        //                     for (var t = 0; t < e.data.results.length; t++) {
-        //                         var n = e.data.results[t];
-        //                         t < 10 && a.push('<li><a href="' + n.url + '" target="_blank">' + n.name + "</a></li>")
-        //                     }
-        //                 o.getElementsByClassName("bd")[0].innerHTML = "<ul>" + a.join("") + "</ul>"
-        //             },
-        //             fail: function() {
-        //                 e < 3 ? (e++,
-        //                 setTimeout(function() {
-        //                     a()
-        //                 }, 500)) : o.style.display = "none"
-        //             }
-        //         })
-        //     };
-        //     window.onload = a
-        // }
-    }()
-});
-debugger
-var code = "unknown"
-  , version = 0
-  , platform = "Win"
-  , j = 0
-  , i = navigator.userAgent.indexOf("MSIE");
+//     function() {
+//         var e = $(".mod-head")
+//           , n = e.find('.input-box input[name="ip"]')
+//           , a = e.find(".input-box button.btn-search")
+//           , t = (e.find(".input-box button.btn-visit"),
+//         /^((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}$/)
+//           , o = /^([a-zA-Z0-9][-a-zA-Z0-9]{0,62}\.)([a-zA-Z0-9\-]{1,63}\.)*([a-zA-Z]{1,63})$/;
+//         if (n.on("paste", function() {
+//             setTimeout(function() {
+//                 !function() {
+//                     var e = $.trim(n.val()).replace(/[\r\n]/g, "")
+//                       , a = e
+//                       , t = e.match(/((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}/);
+//                     t && (e = t[0]),
+//                     (t = e.match(/([a-zA-Z0-9][-a-zA-Z0-9]{0,62}\.)([a-zA-Z0-9\-]{1,63}\.)*([a-zA-Z]{1,63})/)) && (e = t[0]),
+//                     (e = e.replace(/[^a-zA-Z0-9\-\.]/g, "")) != a && n.val(e)
+//                 }()
+//             }, 0)
+//         }),
+//         location.hash) {
+//             var u = location.hash.substr(1)
+//               , l = u.match(/((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}/);
+//             l && (u = l[0]),
+//             u.match(t) && (n.val(u),
+//             calculate())
+//         }
+//         function r() {
+//             var e = $.trim(n.val());
+//             return "" == e ? alert("请输入您要查询的iP地址！") : e.match(o) ? window.open("https://ipchaxun.com/" + e + "/") : e.match(t) ? (location.hash = e,
+//             calculate()) : alert("iP格式错误！"),
+//             !1
+//         }
+//         n.on("keydown", function(e) {
+//             (e = e || window.event) && 13 == e.keyCode && r()
+//         }),
+//         a.on("click", r)
+//     }(),
+//     function() {
+//         var e = $(".mod-head")
+//           , a = e.find('input[name="ip"]');
+//         e.find(".input-box").append('<a href="javascript:;" class="clear"><span>X</span></a>');
+//         function t() {
+//             $.trim(a.val()) ? o.show() : o.hide(),
+//             o.css({
+//                 right: n.width() * n.length + 10,
+//                 top: (n.height() - 32) / 2
+//             })
+//         }
+//         var n = e.find("button")
+//           , o = e.find(".clear");
+//         "oninput"in document.createElement("input") ? a.on("input", t) : a.on("propertychange", t),
+//         o.on("click", function() {
+//             a.val(""),
+//             o.hide(),
+//             a.focus()
+//         }),
+//         t()
+//     }(),
+//     $("#copy").on("click", function() {
+//         var e = $("input[name*=ip_]")
+//           , a = $("input[name=bits]");
+//         !function(e, a) {
+//             a = a || function() {}
+//             ,
+//             window.getSelection().removeAllRanges();
+//             var t = window.getSelection()
+//               , n = document.createElement("div");
+//             n.style.position = "absolute",
+//             n.style.left = "-99999px",
+//             document.body.appendChild(n),
+//             n.innerHTML = e,
+//             t.selectAllChildren(n),
+//             document.execCommand("Copy"),
+//             window.setTimeout(function() {
+//                 document.body.removeChild(n),
+//                 a()
+//             }, 100)
+//         }($.map(e, function(e) {
+//             return $(e).val()
+//         }).join(".") + "/" + a.val(), function() {
+//             alert("已复制到剪切板！")
+//         })
+//     }),
+//     function() {
+//         // if (document.getElementsByClassName("mod-news").length) {
+//         //     var o = document.getElementsByClassName("mod-news")[0]
+//         //       , e = 0
+//         //       , a = function() {
+//         //         $.ajax({
+//         //             url: "https://www.luyouqi.com/api/list/new/",
+//         //             method: "get",
+//         //             dataType: "jsonp",
+//         //             jsonpCallback: "jsonpCallback",
+//         //             success: function(e) {
+//         //                 var a = [];
+//         //                 if (e.status)
+//         //                     for (var t = 0; t < e.data.results.length; t++) {
+//         //                         var n = e.data.results[t];
+//         //                         t < 10 && a.push('<li><a href="' + n.url + '" target="_blank">' + n.name + "</a></li>")
+//         //                     }
+//         //                 o.getElementsByClassName("bd")[0].innerHTML = "<ul>" + a.join("") + "</ul>"
+//         //             },
+//         //             fail: function() {
+//         //                 e < 3 ? (e++,
+//         //                 setTimeout(function() {
+//         //                     a()
+//         //                 }, 500)) : o.style.display = "none"
+//         //             }
+//         //         })
+//         //     };
+//         //     window.onload = a
+//         // }
+//     }()
+// });
+
+// var code = "unknown"
+//   , version = 0
+//   , platform = "Win"
+//   , j = 0
+//   , i = navigator.userAgent.indexOf("MSIE");
 function ClearAll(e) {
     e.node.options.selectedIndex = 0,
     e.network.options.selectedIndex = 0,
