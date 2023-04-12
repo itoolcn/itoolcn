@@ -15,7 +15,7 @@
 		<meta name="keywords" content="ip计算器,ip地址计算器,子网掩码计算器,ip计算器在线计算,掩码计算器">
         <meta name="description" content="提供专业ipv4、ipv6计算器在线计算">
 		<title>ip计算器 ip地址计算器 子网掩码计算器 ip地址转换 ip子网划分计算器</title>		
-<!--		<link rel="canonical" href="">-->
+		<link rel="canonical" href="https://www.itool.cn">
 		<link rel="stylesheet" type="text/css" media="screen" href="static/css/common.css">
 		<link rel="stylesheet" type="text/css" media="screen" href="static/css/index.css">
 		<script type="text/javascript">
@@ -737,23 +737,26 @@
 				</div>
 			</div>
 		</div>
+		<script src="https://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
 		<script src="static/js/sea.js"></script>
+		<script src="static/script/dist/index/index.js"></script>
+		<script src="static/script/dist/public/common.js"></script>
 		<script type="text/javascript">
-			seajs.config({
-				'base': './static/script/dist',
-				'paths': {
-					'scriptUrl': './static/script/dist'
-				},
-				'alias': {
-					'jquery': 'https://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js',
-					'common': 'scriptUrl/public/common'
-				},
-				'map': [[/^(.*?\/script\/(?:src|dist)\/.*?\/.*?\.js$)(?:.*)$/i, '$1?v=202204011811111']],
-				'charset': 'utf-8'
-			});
-			seajs.use(['common'],function() {
-				seajs.use('scriptUrl/index/index.js');
-			});
+			// seajs.config({
+			// 	'base': './static/script/dist',
+			// 	'paths': {
+			// 		'scriptUrl': './static/script/dist'
+			// 	},
+			// 	'alias': {
+			// 		'jquery': 'https://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js',
+			// 		'common': 'scriptUrl/public/common'
+			// 	},
+			// 	'map': [[/^(.*?\/script\/(?:src|dist)\/.*?\/.*?\.js$)(?:.*)$/i, '$1?v=202204011811111']],
+			// 	'charset': 'utf-8'
+			// });
+			// seajs.use(['common'],function() {
+			// 	seajs.use('scriptUrl/index/index.js');
+			// });
 		</script>
 		<script id="MODBanner" src="static/js/index.js"></script>
 </body>
