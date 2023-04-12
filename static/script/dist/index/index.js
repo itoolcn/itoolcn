@@ -1252,13 +1252,7 @@ function initPage() {
         var e = $(".mod-head")
         , a = e.find('input[name="ip"]');
         e.find(".input-box").append('<a href="javascript:;" class="clear"><span>X</span></a>');
-        function t() {
-            $.trim(a.val()) ? o.show() : o.hide(),
-            o.css({
-                right: n.width() * n.length + 10,
-                top: (n.height() - 32) / 2
-            })
-        }
+        
         var n = e.find("button")
         , o = e.find(".clear");
         "oninput"in document.createElement("input") ? a.on("input", t) : a.on("propertychange", t),
@@ -1267,7 +1261,14 @@ function initPage() {
             o.hide(),
             a.focus()
         }),
-        t();
+        $.trim(a.val()) ? o.show() : o.hide();
+        o.css({
+            right: n.width() * n.length + 10,
+            top: (n.height() - 32) / 2
+        });
+
+
+
 
         $("#copy").on("click", function() {
             var e = $("input[name*=ip_]")
