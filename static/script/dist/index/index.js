@@ -1273,34 +1273,34 @@ $(function(){
         })
     }),
     function() {
-        if (document.getElementsByClassName("mod-news").length) {
-            var o = document.getElementsByClassName("mod-news")[0]
-              , e = 0
-              , a = function() {
-                $.ajax({
-                    url: "https://www.luyouqi.com/api/list/new/",
-                    method: "get",
-                    dataType: "jsonp",
-                    jsonpCallback: "jsonpCallback",
-                    success: function(e) {
-                        var a = [];
-                        if (e.status)
-                            for (var t = 0; t < e.data.results.length; t++) {
-                                var n = e.data.results[t];
-                                t < 10 && a.push('<li><a href="' + n.url + '" target="_blank">' + n.name + "</a></li>")
-                            }
-                        o.getElementsByClassName("bd")[0].innerHTML = "<ul>" + a.join("") + "</ul>"
-                    },
-                    fail: function() {
-                        e < 3 ? (e++,
-                        setTimeout(function() {
-                            a()
-                        }, 500)) : o.style.display = "none"
-                    }
-                })
-            };
-            window.onload = a
-        }
+        // if (document.getElementsByClassName("mod-news").length) {
+        //     var o = document.getElementsByClassName("mod-news")[0]
+        //       , e = 0
+        //       , a = function() {
+        //         $.ajax({
+        //             url: "https://www.luyouqi.com/api/list/new/",
+        //             method: "get",
+        //             dataType: "jsonp",
+        //             jsonpCallback: "jsonpCallback",
+        //             success: function(e) {
+        //                 var a = [];
+        //                 if (e.status)
+        //                     for (var t = 0; t < e.data.results.length; t++) {
+        //                         var n = e.data.results[t];
+        //                         t < 10 && a.push('<li><a href="' + n.url + '" target="_blank">' + n.name + "</a></li>")
+        //                     }
+        //                 o.getElementsByClassName("bd")[0].innerHTML = "<ul>" + a.join("") + "</ul>"
+        //             },
+        //             fail: function() {
+        //                 e < 3 ? (e++,
+        //                 setTimeout(function() {
+        //                     a()
+        //                 }, 500)) : o.style.display = "none"
+        //             }
+        //         })
+        //     };
+        //     window.onload = a
+        // }
     }()
 });
 
