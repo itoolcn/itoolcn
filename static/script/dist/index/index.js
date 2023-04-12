@@ -1277,7 +1277,7 @@ function initPage() {
         }).join(".") + "/" + a.val(), function() {
             alert("已复制到剪切板！")
         })
-    }),
+    })
 //     function() {
 //         // if (document.getElementsByClassName("mod-news").length) {
 //         //     var o = document.getElementsByClassName("mod-news")[0]
