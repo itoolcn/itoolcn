@@ -184,50 +184,203 @@ function resetform4(e) {
     reset_rest_from4(e)
 }
 function calNBFL(e) {
-    return reset_rest_from4(e),
-    tmpvar = parseInt(e.ip_1.value, 10),
-    isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? (e.numofaddr.value = "错误",
-    1) : (tmpvar = parseInt(e.ip_2.value, 10),
-    isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? (e.numofaddr.value = "错误",
-    1) : (tmpvar = parseInt(e.ip_3.value, 10),
-    isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? (e.numofaddr.value = "错误",
-    1) : (tmpvar = parseInt(e.ip_4.value, 10),
-    isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? (e.numofaddr.value = "错误",
-    1) : 0 != calcNWmask(e) ? 1 : (tmpvar = parseInt(e.bits.value, 10),
-    tmpvar < 0 ? (e.numofaddr.value = "错误",
-    1) : 32 < tmpvar ? (e.numofaddr.value = "错误",
-    1) : 31 == tmpvar ? (e.numofaddr.value = "two hosts",
-    e.firstadr_1.value = e.ip_1.value & e.snm_1.value,
-    e.firstadr_2.value = e.ip_2.value & e.snm_2.value,
-    e.firstadr_3.value = e.ip_3.value & e.snm_3.value,
-    e.firstadr_4.value = e.ip_4.value & e.snm_4.value,
-    e.lastadr_1.value = e.ip_1.value | 255 & ~e.snm_1.value,
-    e.lastadr_2.value = e.ip_2.value | 255 & ~e.snm_2.value,
-    e.lastadr_3.value = e.ip_3.value | 255 & ~e.snm_3.value,
-    e.lastadr_4.value = e.ip_4.value | 255 & ~e.snm_4.value,
-    1) : 32 == tmpvar ? (e.numofaddr.value = "one host",
-    e.firstadr_1.value = e.ip_1.value,
-    e.firstadr_2.value = e.ip_2.value,
-    e.firstadr_3.value = e.ip_3.value,
-    e.firstadr_4.value = e.ip_4.value,
-    1) : (e.numofaddr.value = Math.pow(2, 32 - tmpvar) - 2,
-    e.bcast_1.value = e.ip_1.value | 255 & ~e.snm_1.value,
-    e.bcast_2.value = e.ip_2.value | 255 & ~e.snm_2.value,
-    e.bcast_3.value = e.ip_3.value | 255 & ~e.snm_3.value,
-    e.bcast_4.value = e.ip_4.value | 255 & ~e.snm_4.value,
-    e.nwadr_1.value = e.ip_1.value & e.snm_1.value,
-    e.nwadr_2.value = e.ip_2.value & e.snm_2.value,
-    e.nwadr_3.value = e.ip_3.value & e.snm_3.value,
-    e.nwadr_4.value = e.ip_4.value & e.snm_4.value,
-    e.firstadr_1.value = e.nwadr_1.value,
-    e.firstadr_2.value = e.nwadr_2.value,
-    e.firstadr_3.value = e.nwadr_3.value,
-    e.firstadr_4.value = parseInt(e.nwadr_4.value) + 1,
-    e.lastadr_1.value = e.bcast_1.value,
-    e.lastadr_2.value = e.bcast_2.value,
-    e.lastadr_3.value = e.bcast_3.value,
-    e.lastadr_4.value = parseInt(e.bcast_4.value) - 1,
-    0)))))
+    reset_rest_from4(e);
+    var tmpvar = parseInt(e.ip_1.value, 10);
+    if(isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0){
+        e.numofaddr.value = "错误"
+    }
+    else {
+        if(tmpvar = parseInt(e.ip_2.value, 10), isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ){
+            e.numofaddr.value = "错误"
+        }
+        else {
+            if(tmpvar = parseInt(e.ip_3.value, 10), isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0){
+                e.numofaddr.value = "错误"
+            }
+            else {
+                if(tmpvar = parseInt(e.ip_4.value, 10), isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0){
+                    e.numofaddr.value = "错误"
+                }
+                else {
+                    if(0 != calcNWmask(e)){
+                        tmpvar = parseInt(e.bits.value, 10);
+                        if(tmpvar < 0 ){
+                            e.numofaddr.value = "错误"
+                        }
+                        else {
+                            if(32 < tmpvar){
+                                e.numofaddr.value = "错误"
+                            }
+                            else {
+                                if(31 == tmpvar){
+                                    e.numofaddr.value = "two hosts";
+                                    e.firstadr_1.value = e.ip_1.value & e.snm_1.value;
+                                    e.firstadr_2.value = e.ip_2.value & e.snm_2.value;
+                                    e.firstadr_3.value = e.ip_3.value & e.snm_3.value;
+                                    e.firstadr_4.value = e.ip_4.value & e.snm_4.value;
+                                    e.lastadr_1.value = e.ip_1.value | 255 & ~e.snm_1.value;
+                                    e.lastadr_2.value = e.ip_2.value | 255 & ~e.snm_2.value;
+                                    e.lastadr_3.value = e.ip_3.value | 255 & ~e.snm_3.value;
+                                    e.lastadr_4.value = e.ip_4.value | 255 & ~e.snm_4.value;
+                                }
+                                else if (32 == tmpvar){
+                                    e.numofaddr.value = "one host";
+                                    e.firstadr_1.value = e.ip_1.value;
+                                    e.firstadr_2.value = e.ip_2.value;
+                                    e.firstadr_3.value = e.ip_3.value;
+                                    e.firstadr_4.value = e.ip_4.value;
+                                }
+                                else {
+                                    e.numofaddr.value = Math.pow(2, 32 - tmpvar) - 2;
+                                    e.bcast_1.value = e.ip_1.value | 255 & ~e.snm_1.value;
+                                    e.bcast_2.value = e.ip_2.value | 255 & ~e.snm_2.value;
+                                    e.bcast_3.value = e.ip_3.value | 255 & ~e.snm_3.value;
+                                    e.bcast_4.value = e.ip_4.value | 255 & ~e.snm_4.value;
+                                    e.nwadr_1.value = e.ip_1.value & e.snm_1.value;
+                                    e.nwadr_2.value = e.ip_2.value & e.snm_2.value;
+                                    e.nwadr_3.value = e.ip_3.value & e.snm_3.value;
+                                    e.nwadr_4.value = e.ip_4.value & e.snm_4.value;
+                                    e.firstadr_1.value = e.nwadr_1.value;
+                                    e.firstadr_2.value = e.nwadr_2.value;
+                                    e.firstadr_3.value = e.nwadr_3.value;
+                                    e.firstadr_4.value = parseInt(e.nwadr_4.value) + 1;
+                                    e.lastadr_1.value = e.bcast_1.value;
+                                    e.lastadr_2.value = e.bcast_2.value;
+                                    e.lastadr_3.value = e.bcast_3.value;
+                                    e.lastadr_4.value = parseInt(e.bcast_4.value) - 1;
+                                    
+                                }
+                            }
+                        }
+
+
+                        // tmpvar < 0 ? (e.numofaddr.value = "错误",
+                        // 1) : 32 < tmpvar ? (e.numofaddr.value = "错误",
+                        // 1) : 31 == tmpvar ? (e.numofaddr.value = "two hosts",
+                        // e.firstadr_1.value = e.ip_1.value & e.snm_1.value,
+                        // e.firstadr_2.value = e.ip_2.value & e.snm_2.value,
+                        // e.firstadr_3.value = e.ip_3.value & e.snm_3.value,
+                        // e.firstadr_4.value = e.ip_4.value & e.snm_4.value,
+                        // e.lastadr_1.value = e.ip_1.value | 255 & ~e.snm_1.value,
+                        // e.lastadr_2.value = e.ip_2.value | 255 & ~e.snm_2.value,
+                        // e.lastadr_3.value = e.ip_3.value | 255 & ~e.snm_3.value,
+                        // e.lastadr_4.value = e.ip_4.value | 255 & ~e.snm_4.value,
+                        // 1) : 32 == tmpvar ? (e.numofaddr.value = "one host",
+                        // e.firstadr_1.value = e.ip_1.value,
+                        // e.firstadr_2.value = e.ip_2.value,
+                        // e.firstadr_3.value = e.ip_3.value,
+                        // e.firstadr_4.value = e.ip_4.value,
+                        // 1) : (e.numofaddr.value = Math.pow(2, 32 - tmpvar) - 2,
+                        // e.bcast_1.value = e.ip_1.value | 255 & ~e.snm_1.value,
+                        // e.bcast_2.value = e.ip_2.value | 255 & ~e.snm_2.value,
+                        // e.bcast_3.value = e.ip_3.value | 255 & ~e.snm_3.value,
+                        // e.bcast_4.value = e.ip_4.value | 255 & ~e.snm_4.value,
+                        // e.nwadr_1.value = e.ip_1.value & e.snm_1.value,
+                        // e.nwadr_2.value = e.ip_2.value & e.snm_2.value,
+                        // e.nwadr_3.value = e.ip_3.value & e.snm_3.value,
+                        // e.nwadr_4.value = e.ip_4.value & e.snm_4.value,
+                        // e.firstadr_1.value = e.nwadr_1.value,
+                        // e.firstadr_2.value = e.nwadr_2.value,
+                        // e.firstadr_3.value = e.nwadr_3.value,
+                        // e.firstadr_4.value = parseInt(e.nwadr_4.value) + 1,
+                        // e.lastadr_1.value = e.bcast_1.value,
+                        // e.lastadr_2.value = e.bcast_2.value,
+                        // e.lastadr_3.value = e.bcast_3.value,
+                        // e.lastadr_4.value = parseInt(e.bcast_4.value) - 1,
+                        // 0)
+                    }
+                }
+            }
+        }
+
+        (tmpvar = parseInt(e.ip_2.value, 10), isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? 
+        (e.numofaddr.value = "错误", 1) : 
+        (tmpvar = parseInt(e.ip_3.value, 10),
+        isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? (e.numofaddr.value = "错误",
+        1) : (tmpvar = parseInt(e.ip_4.value, 10),
+        isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? (e.numofaddr.value = "错误",
+        1) : 0 != calcNWmask(e) ? 1 : (tmpvar = parseInt(e.bits.value, 10),
+        tmpvar < 0 ? (e.numofaddr.value = "错误",
+        1) : 32 < tmpvar ? (e.numofaddr.value = "错误",
+        1) : 31 == tmpvar ? (e.numofaddr.value = "two hosts",
+        e.firstadr_1.value = e.ip_1.value & e.snm_1.value,
+        e.firstadr_2.value = e.ip_2.value & e.snm_2.value,
+        e.firstadr_3.value = e.ip_3.value & e.snm_3.value,
+        e.firstadr_4.value = e.ip_4.value & e.snm_4.value,
+        e.lastadr_1.value = e.ip_1.value | 255 & ~e.snm_1.value,
+        e.lastadr_2.value = e.ip_2.value | 255 & ~e.snm_2.value,
+        e.lastadr_3.value = e.ip_3.value | 255 & ~e.snm_3.value,
+        e.lastadr_4.value = e.ip_4.value | 255 & ~e.snm_4.value,
+        1) : 32 == tmpvar ? (e.numofaddr.value = "one host",
+        e.firstadr_1.value = e.ip_1.value,
+        e.firstadr_2.value = e.ip_2.value,
+        e.firstadr_3.value = e.ip_3.value,
+        e.firstadr_4.value = e.ip_4.value,
+        1) : (e.numofaddr.value = Math.pow(2, 32 - tmpvar) - 2,
+        e.bcast_1.value = e.ip_1.value | 255 & ~e.snm_1.value,
+        e.bcast_2.value = e.ip_2.value | 255 & ~e.snm_2.value,
+        e.bcast_3.value = e.ip_3.value | 255 & ~e.snm_3.value,
+        e.bcast_4.value = e.ip_4.value | 255 & ~e.snm_4.value,
+        e.nwadr_1.value = e.ip_1.value & e.snm_1.value,
+        e.nwadr_2.value = e.ip_2.value & e.snm_2.value,
+        e.nwadr_3.value = e.ip_3.value & e.snm_3.value,
+        e.nwadr_4.value = e.ip_4.value & e.snm_4.value,
+        e.firstadr_1.value = e.nwadr_1.value,
+        e.firstadr_2.value = e.nwadr_2.value,
+        e.firstadr_3.value = e.nwadr_3.value,
+        e.firstadr_4.value = parseInt(e.nwadr_4.value) + 1,
+        e.lastadr_1.value = e.bcast_1.value,
+        e.lastadr_2.value = e.bcast_2.value,
+        e.lastadr_3.value = e.bcast_3.value,
+        e.lastadr_4.value = parseInt(e.bcast_4.value) - 1,
+        0)))))
+    }
+
+
+    isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? 
+    (e.numofaddr.value = "错误",1) : 
+    
+        (tmpvar = parseInt(e.ip_2.value, 10), isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? 
+        (e.numofaddr.value = "错误", 1) : 
+        (tmpvar = parseInt(e.ip_3.value, 10),
+        isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? (e.numofaddr.value = "错误",
+        1) : (tmpvar = parseInt(e.ip_4.value, 10),
+        isNaN(tmpvar) || 255 < tmpvar || tmpvar < 0 ? (e.numofaddr.value = "错误",
+        1) : 0 != calcNWmask(e) ? 1 : (tmpvar = parseInt(e.bits.value, 10),
+        tmpvar < 0 ? (e.numofaddr.value = "错误",
+        1) : 32 < tmpvar ? (e.numofaddr.value = "错误",
+        1) : 31 == tmpvar ? (e.numofaddr.value = "two hosts",
+        e.firstadr_1.value = e.ip_1.value & e.snm_1.value,
+        e.firstadr_2.value = e.ip_2.value & e.snm_2.value,
+        e.firstadr_3.value = e.ip_3.value & e.snm_3.value,
+        e.firstadr_4.value = e.ip_4.value & e.snm_4.value,
+        e.lastadr_1.value = e.ip_1.value | 255 & ~e.snm_1.value,
+        e.lastadr_2.value = e.ip_2.value | 255 & ~e.snm_2.value,
+        e.lastadr_3.value = e.ip_3.value | 255 & ~e.snm_3.value,
+        e.lastadr_4.value = e.ip_4.value | 255 & ~e.snm_4.value,
+        1) : 32 == tmpvar ? (e.numofaddr.value = "one host",
+        e.firstadr_1.value = e.ip_1.value,
+        e.firstadr_2.value = e.ip_2.value,
+        e.firstadr_3.value = e.ip_3.value,
+        e.firstadr_4.value = e.ip_4.value,
+        1) : (e.numofaddr.value = Math.pow(2, 32 - tmpvar) - 2,
+        e.bcast_1.value = e.ip_1.value | 255 & ~e.snm_1.value,
+        e.bcast_2.value = e.ip_2.value | 255 & ~e.snm_2.value,
+        e.bcast_3.value = e.ip_3.value | 255 & ~e.snm_3.value,
+        e.bcast_4.value = e.ip_4.value | 255 & ~e.snm_4.value,
+        e.nwadr_1.value = e.ip_1.value & e.snm_1.value,
+        e.nwadr_2.value = e.ip_2.value & e.snm_2.value,
+        e.nwadr_3.value = e.ip_3.value & e.snm_3.value,
+        e.nwadr_4.value = e.ip_4.value & e.snm_4.value,
+        e.firstadr_1.value = e.nwadr_1.value,
+        e.firstadr_2.value = e.nwadr_2.value,
+        e.firstadr_3.value = e.nwadr_3.value,
+        e.firstadr_4.value = parseInt(e.nwadr_4.value) + 1,
+        e.lastadr_1.value = e.bcast_1.value,
+        e.lastadr_2.value = e.bcast_2.value,
+        e.lastadr_3.value = e.bcast_3.value,
+        e.lastadr_4.value = parseInt(e.bcast_4.value) - 1,
+        0)))))
 }
 function resetform6(e) {
     e.numofaddr.value = 5,
