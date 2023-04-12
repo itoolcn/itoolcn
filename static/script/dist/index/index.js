@@ -468,8 +468,7 @@ function initPage() {
 }
 
 
- $(function(){
-//     debugger
+
     var _0x5a53 = ["jsjiami.com.v6", "ujsjiBLnpakXqpmnQi.com.v6zxZ==", "wpIcwoo2LQ==", "G8KfwoUEw4o=", "w43Dh8KDcXo=", "PzLDhnPDoQ==", "wpfCnwkGwrQ=", "wqglwp3DklI=", "csK5w5gAw5Y=", "wqVwwrtbw5w=", "AsKxHh7DuQ==", "bcK2BWvDjQ==", "ZMKFNGjDiQ==", "w6cZfMKSwoI=", "wrDCrcOTK8O2", "w6oXw79/bw==", "w6RDwofCpsOI", "IcOEw6pzwoszw7rDuT/ChiPDrXXDiG3Cs8KhaiLCmMOTGXbClBgYwr5Awo8lwpLDvMKhRFhEPsO9wrEvwoLCrjA=", "FjrCmG4G", "w4XCuCrCo8Ov", "CcOjcMO5wrc=", "MMKqMlRz", "XkXDlMOPBA==", "KMKuCAvDhg==", "fcO2w5HCt8KH", "R8Opw7HCi8O0", "CsKyN2dP", "w6kiVsKvwqQ=", "DSfCglYm", "ERvDg0XDtg==", "ScKiwqPDs8K5", "w7c6K8Kkwo4=", "CARjw4lS", "wpTCjz4NwoM=", "w6LClCXClsOm", "NcODLMKww4U=", "w4jClRjCt8Ol", "w5bCrMKLwrTChQ==", "C8O4AQ==", "w4rDpcOiw47Dtw==", "OsOBATfCkQ==", "w5/DocOWw4rDjg==", "wp1Iwqlvw4s=", "w63DgAxHOA==", "IwPDkkXDnw==", "AsKgwosLw64=", "G34pwoZE", "w5dQCcKKAw==", "wpwuwpA4Kg==", "JX0sw6pd", "S8KeYMOiwqs=", "wolJwqJfw6w=", "wobCnMOvN8OG", "wq0IU8KGfg==", "ETYRSgk=", "JcKLwrgKw5E=", "w5l1GMKRKg==", "w5LClEfCq8OB", "TnDDv8OWMA==", "wpXCnsK1wo/CjsK9w5TCrGbDsMKiwr4Tw7TChsKm", "cMOiw5zClsO6", "WcKhwoTDgcKK", "w7DCjMOneMKg", "w7LDjsOmw7nDrQ==", "Z8OQw4LCncOG", "w4HDq8Oow5HDjA==", "w43Ci3rCqsON", "T8KiacOiwo51", "wpA9VMK+Rw==", "wqt3OQJiESbDol8rFjkdwo7DkcKrwpPDtEbClEYUwrQtR8OTDmHCv8Ogw6MsLSYBw7EJPcORdsOQwr3Dlw==", "SVjDnsOJPA==", "w5QSw5FtZw==", "EMKvwpkiw5I=", "NhcKZBI=", "cB8CLGQ=", "fsOJw5rClQ==", "wovCp8OuKw==", "CsKuXMKCSA==", "w7w2w75cYg==", "KsO2L8KGw74=", "wonCnMOxKMOu", "acK1wqDDmsKs", "woXDnMKQR8Ot", "WsKlwr7DoMK2", "acKLRsOBwoM=", "YMKnwoXDh8KU", "ZsO8w63ChcKf", "BsKOwpccw60=", "Nm05w4xr", "wrc0wqY6NQ==", "DsKdDCjDmQ==", "wrgeTcKcUA==", "w7nCqcOCRcK7", "PcKXHm1M", "LVAGw6NQ", "woXDocKWXsOA", "E8KRMGRh", "fWxrZA0=", "dF7DnMO0KQ==", "w6hxBMKwPA==", "KlEkw4Zm", "DEAqwpF5", "W1jDlsODBQ==", "B8OLccOJwow=", "IMKzesK9Zg==", "wqM0wocoEQ==", "w4jCr8OUdcK7", "EMO1OCbCvQ==", "M8KgPADDhQ==", "wrLDucKydMOV", "woEywq81", "G8K1wqYj", "LwgPYw==", "YGTDvsOnAw==", "w5ptLsK+Cw==", "w4bDh8Omw47Du8O8", "CMKKJTXDmg==", "Ny7CvmYl", "w5DCqwbCi8Oj", "JA/DkkTDvA==", "D8OhMiPCtw==", "EsK0wok8w6Q=", "w4nDhigUHcKBw5vCsQ==", "XMKIQ8OBwqo=", "wppqwqUNw6DDiAXDkAg=", "ZsKmw48Uw5E=", "w4TCrFvCumw=", "woIZYcKedg==", "w5XCqRLCl8OT", "R8K5w68ww7A=", "F8OUUcOtwqU=", "Pl4Mwot3", "wqTDm8K8esOr", "w4VzwoTCs8OK", "RMKNbsOhwpg=", "P8OEK8K9w7M=", "w4nCimnCnE8=", "IMKGV8KOeg==", "PQ3CrX0d", "IA4xRwE=", "A3cQw7R9", "w4vCgMK1wq/CiA==", "w5tNwqzCocO8", "YsOfw73CmMOt", "JiIBSzw=", "wrk3YMKKSA==", "w4bCn8O3VcKi", "a8KFwpHDs8Ka"], a, b;
     a = _0x5a53,
     b = 372,
@@ -482,6 +481,8 @@ function initPage() {
             a.push(a.shift())
         }
     }(++b, 95232);
+
+
     var _0x3a65 = function(e, a) {
         e = ~~"0x".concat(e);
         var t = _0x5a53[e];
@@ -525,7 +526,7 @@ function initPage() {
         _0x3a65.IVowYj[e] = t) : t = n,
         t
     }
-      , h_fillbitsfromleft = function(e) {
+    var  h_fillbitsfromleft = function(e) {
         var a = {
             hgsrT: function(e, a) {
                 return e >> a
@@ -559,7 +560,7 @@ function initPage() {
             e--) : bit7 = 1;
         return a[_0x3a65("9", "34P2")](bitpat, 255)
     }
-      , calcNWmask = function(_0x485032, _0x19b66d) {
+    var  calcNWmask = function(_0x485032, _0x19b66d) {
         var _0x24c6fd = {
             FmdBu: function(e, a) {
                 return a < e
@@ -617,6 +618,9 @@ function initPage() {
                 return e(a)
             }
         };
+
+
+
         if (32 < _0x19b66d || _0x19b66d < 0) {
             if (_0x24c6fd[_0x3a65("e", "jQm!")](_0x24c6fd[_0x3a65("f", "7%Ld")], _0x24c6fd[_0x3a65("10", "!fk[")])) {
                 var _0x4479b4 = _0x485032[_0x3a65("11", "G[6G")](".")
@@ -662,7 +666,8 @@ function initPage() {
         [_0x1ed06f, _0x5a00a3, _0x2b169c, _0xd8e1e6])) : (_0x1ed06f = h_fillbitsfromleft(_0x19b66d),
         [_0x1ed06f, _0x5a00a3, _0x2b169c, _0xd8e1e6])
     }
-      , calcNBFL = function(e, a) {
+
+    var  calcNBFL = function(e, a) {
         var t = {
             dKaDt: _0x3a65("28", "FPT!"),
             WIyrL: function(e, a) {
@@ -813,6 +818,8 @@ function initPage() {
           , u = n[1]
           , l = n[2]
           , r = n[3];
+
+
         if (t[_0x3a65("2b", "[TS3")](a, 32) || a < 0)
             return !!t[_0x3a65("2c", ")AQX")](t.OXKXw, t[_0x3a65("2d", "34P2")]) && (d = c,
             f = i,
@@ -826,6 +833,8 @@ function initPage() {
                 bcast: "",
                 nwadr: ""
             });
+
+
         var v = ""
           , c = (n = e[_0x3a65("35", "dPKj")]("."))[0]
           , i = n[1]
@@ -847,7 +856,8 @@ function initPage() {
           , A = ""
           , D = ""
           , j = "";
-          debugger
+     
+
         if (t[_0x3a65("36", ")AQX")](a, 31))
             for (var S = t.sBAKu[_0x3a65("37", "6p0j")]("|"), I = 0; ; ) {
                 switch (S[I++]) {
@@ -904,6 +914,7 @@ function initPage() {
                     bcast: "",
                     nwadr: ""
                 };
+
             if (t.AcBcl("IwedU", _0x3a65("50", "Clii")))
                 bit1 = 1;
             else
@@ -974,7 +985,8 @@ function initPage() {
                 }
         }
     }
-      , dec2bin = function(e) {
+
+    var  dec2bin = function(e) {
         var a = {
             LQaSK: function(e, a) {
                 return a <= e
@@ -1017,6 +1029,8 @@ function initPage() {
           , r = 0
           , v = 0
           , c = 0;
+
+
         if (a.sUcBC(e, 128) && (t = 1),
         64 & e && (n = 1),
         a[_0x3a65("6a", "4UVO")](e, 32) && (a[_0x3a65("6b", "FPT!")](_0x3a65("6c", "CU%v"), _0x3a65("6d", ")g[%")) ? (snm_1 = 255,
@@ -1038,7 +1052,7 @@ function initPage() {
         a.PLKfj(e, 1) && (a[_0x3a65("75", "34P2")](a[_0x3a65("76", "oQK^")], a[_0x3a65("77", ")g[%")]) ? r = 1 : c = 1),
         a[_0x3a65("78", "G[6G")](a[_0x3a65("79", "^7#P")](a[_0x3a65("7a", "!fk[")]("", t) + n + o, u) + l + r, v) + c
     }
-      , dec2hex = function(e) {
+    var   dec2hex = function(e) {
         for (var a = {
             QartJ: _0x3a65("7b", "tCK1"),
             GKOLq: function(e, a) {
@@ -1063,7 +1077,7 @@ function initPage() {
         }
         return o
     }
-      , conversion = function(_0x58c2f2) {
+    var   conversion = function(_0x58c2f2) {
         for (var _0x4beee6 = {
             KwXWQ: function(e, a) {
                 return e(a)
@@ -1153,6 +1167,7 @@ function initPage() {
             break
         }
     };
+
     window.formatTable = function() {
         var e = $(".mod-head")
           , a = $(".mod-panel")
@@ -1168,9 +1183,11 @@ function initPage() {
             l.append("<tr" + (16 == r || 24 == r ? ' class="blue"' : "") + ">                <td>" + v.nwadr + "/" + r + "</td>            </tr>")
         }
     }
-    ,
-    window.calculate = formatTable,
-    //location.hostname.indexOf("itool.cn") < 0 ? location.href = "https://www.itool.cn/" : window.top != window.self && (window.top.location = self.location.href),
+
+    window.calculate = formatTable
+
+    location.hostname.indexOf("itool.cn") < 0 ? location.href = "https://www.itool.cn/" : window.top != window.self && (window.top.location = self.location.href);
+    
     // ﾟωﾟﾉ = /｀ｍ´）ﾉ ~┻━┻   /._,
     // o = ﾟｰﾟ = _ = 3,
     // c = ﾟΘﾟ = ﾟｰﾟ - ﾟｰﾟ,
@@ -1195,19 +1212,19 @@ function initPage() {
     // ﾟДﾟ._(ﾟДﾟ._(ﾟεﾟ + ﾟДﾟ[ﾟoﾟ] + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟｰﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟΘﾟ + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (ﾟｰﾟ + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + ﾟΘﾟ) + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + ﾟΘﾟ) + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ﾟｰﾟ + ((o ^ _ ^ o) + (o ^ _ ^ o)) + ﾟДﾟ[ﾟεﾟ] + (ﾟｰﾟ + (o ^ _ ^ o)) + (o ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + ((o ^ _ ^ o) - ﾟΘﾟ) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟｰﾟ + (c ^ _ ^ o) + ﾟДﾟ[ﾟεﾟ] + ﾟΘﾟ + (ﾟｰﾟ + (o ^ _ ^ o)) + (ﾟｰﾟ + ﾟΘﾟ) + ﾟДﾟ[ﾟoﾟ])(ﾟΘﾟ))("_"),
     
     
-    function() {
+    $(function(){
         var e = $(".mod-head")
-          , n = e.find('.input-box input[name="ip"]')
-          , a = e.find(".input-box button.btn-search")
-          , t = (e.find(".input-box button.btn-visit"),
+        , n = e.find('.input-box input[name="ip"]')
+        , a = e.find(".input-box button.btn-search")
+        , t = (e.find(".input-box button.btn-visit"),
         /^((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}$/)
-          , o = /^([a-zA-Z0-9][-a-zA-Z0-9]{0,62}\.)([a-zA-Z0-9\-]{1,63}\.)*([a-zA-Z]{1,63})$/;
+        , o = /^([a-zA-Z0-9][-a-zA-Z0-9]{0,62}\.)([a-zA-Z0-9\-]{1,63}\.)*([a-zA-Z]{1,63})$/;
         if (n.on("paste", function() {
             setTimeout(function() {
                 !function() {
                     var e = $.trim(n.val()).replace(/[\r\n]/g, "")
-                      , a = e
-                      , t = e.match(/((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}/);
+                    , a = e
+                    , t = e.match(/((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}/);
                     t && (e = t[0]),
                     (t = e.match(/([a-zA-Z0-9][-a-zA-Z0-9]{0,62}\.)([a-zA-Z0-9\-]{1,63}\.)*([a-zA-Z]{1,63})/)) && (e = t[0]),
                     (e = e.replace(/[^a-zA-Z0-9\-\.]/g, "")) != a && n.val(e)
@@ -1216,7 +1233,7 @@ function initPage() {
         }),
         location.hash) {
             var u = location.hash.substr(1)
-              , l = u.match(/((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}/);
+            , l = u.match(/((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)(\.((25[0-5])|(2[0-4]\d)|(1\d\d)|([1-9]\d)|\d)){3}/);
             l && (u = l[0]),
             u.match(t) && (n.val(u),
             calculate())
@@ -1231,10 +1248,9 @@ function initPage() {
             (e = e || window.event) && 13 == e.keyCode && r()
         }),
         a.on("click", r)
-    }(),
-    function() {
+
         var e = $(".mod-head")
-          , a = e.find('input[name="ip"]');
+        , a = e.find('input[name="ip"]');
         e.find(".input-box").append('<a href="javascript:;" class="clear"><span>X</span></a>');
         function t() {
             $.trim(a.val()) ? o.show() : o.hide(),
@@ -1244,40 +1260,48 @@ function initPage() {
             })
         }
         var n = e.find("button")
-          , o = e.find(".clear");
+        , o = e.find(".clear");
         "oninput"in document.createElement("input") ? a.on("input", t) : a.on("propertychange", t),
         o.on("click", function() {
             a.val(""),
             o.hide(),
             a.focus()
         }),
-        t()
-    }(),
-    $("#copy").on("click", function() {
-        var e = $("input[name*=ip_]")
-          , a = $("input[name=bits]");
-        !function(e, a) {
-            a = a || function() {}
-            ,
-            window.getSelection().removeAllRanges();
-            var t = window.getSelection()
-              , n = document.createElement("div");
-            n.style.position = "absolute",
-            n.style.left = "-99999px",
-            document.body.appendChild(n),
-            n.innerHTML = e,
-            t.selectAllChildren(n),
-            document.execCommand("Copy"),
-            window.setTimeout(function() {
-                document.body.removeChild(n),
-                a()
-            }, 100)
-        }($.map(e, function(e) {
-            return $(e).val()
-        }).join(".") + "/" + a.val(), function() {
-            alert("已复制到剪切板！")
+        t();
+
+        $("#copy").on("click", function() {
+            var e = $("input[name*=ip_]")
+              , a = $("input[name=bits]");
+
+            !function(e, a) {
+                a = a || function() {}
+                ,
+                window.getSelection().removeAllRanges();
+                var t = window.getSelection()
+                  , n = document.createElement("div");
+                n.style.position = "absolute",
+                n.style.left = "-99999px",
+                document.body.appendChild(n),
+                n.innerHTML = e,
+                t.selectAllChildren(n),
+                document.execCommand("Copy"),
+                window.setTimeout(function() {
+                    document.body.removeChild(n),
+                    a()
+                }, 100)
+            }(
+            $.map(e, function(e) {
+                return $(e).val()
+            }).join(".") + "/" + a.val(), function() {
+                alert("已复制到剪切板！")
+            });
+        
         })
+    
     })
+   
+
+    
 //     function() {
 //         // if (document.getElementsByClassName("mod-news").length) {
 //         //     var o = document.getElementsByClassName("mod-news")[0]
@@ -1308,7 +1332,8 @@ function initPage() {
 //         //     window.onload = a
 //         // }
 //     }()
-});
+
+
 
 // var code = "unknown"
 //   , version = 0
